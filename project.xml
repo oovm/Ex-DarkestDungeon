@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>G:/Steam/steamapps/common/DarkestDungeon/mods/Ex-DarkestDungeon/</ModDataPath>
+	<Title>Ex-DarkestDungeon</Title>
+	<Language>Chinese</Language>
+	<UpdateDetails/>
+	<Visibility>public</Visibility>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Overhauls</Tags>
+		<Tags/>
+	</Tags>
+	<ItemDescription>
+		Ex-DarkestDungeon
+	</ItemDescription>
+</project>
+
