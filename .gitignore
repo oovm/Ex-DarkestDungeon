@@ -2,5 +2,7 @@
 .idea/
 *.iml
 
-# 特殊程序
+# 特殊文件
 *.exe
+*.psd
+Extra/
