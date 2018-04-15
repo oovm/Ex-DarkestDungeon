@@ -1,0 +1,7 @@
+* text=auto
+# 屏蔽文档与 build 文件统计
+project-docs/* linguist-documentation
+Packages/*.m linguist-generated=true
+# make things fun lol
+*.json linguist-language=typescript
+*.darkest linguist-language=kotlin
