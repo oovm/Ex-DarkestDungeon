@@ -1,0 +1,24 @@
+{    
+    "default_store_inventory_item_lists":
+    [
+        [ ],
+        [
+            { "type": "supply", "id": "divine_elixir", "amount": 2 }
+        ],
+        [
+            { "type": "supply", "id": "divine_elixir", "amount": 4 }
+        ],
+        [
+            { "type": "supply", "id": "divine_elixir", "amount": 6 }
+        ],
+        [
+            { "type": "supply", "id": "divine_elixir", "amount": 8 }
+        ],
+        [
+            { "type": "supply", "id": "divine_elixir", "amount": 6 }
+        ],
+        [
+            { "type": "supply", "id": "divine_elixir", "amount": 4 }
+        ]		
+    ]
+}

@@ -1,0 +1,48 @@
+
+divine_elixir.sprite.png
+size: 483,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+divine
+  rotate: true
+  xy: 2, 244
+  size: 426, 411
+  orig: 426, 411
+  offset: 0, 0
+  index: -1
+divine exlir
+  rotate: false
+  xy: 288, 896
+  size: 100, 145
+  orig: 100, 145
+  offset: 0, 0
+  index: -1
+god_rays01
+  rotate: false
+  xy: 2, 672
+  size: 284, 1347
+  orig: 284, 1347
+  offset: 0, 0
+  index: -1
+god_rays02
+  rotate: false
+  xy: 2, 672
+  size: 284, 1347
+  orig: 284, 1347
+  offset: 0, 0
+  index: -1
+inner_glow
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+motes
+  rotate: false
+  xy: 288, 1043
+  size: 193, 976
+  orig: 193, 976
+  offset: 0, 0
+  index: -1

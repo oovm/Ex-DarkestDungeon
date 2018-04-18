@@ -10,3 +10,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1357580411
 
 - No Negative Quirk On Quest Success
 https://steamcommunity.com/sharedfiles/filedetails/?id=1277262669
+
+- Divine Elixir
+https://steamcommunity.com/sharedfiles/filedetails/?id=1337355759
+用于治疗血色诅咒.

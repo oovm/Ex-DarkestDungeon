@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+  <entry id="str_inventory_title_supplydivine_elixir"><![CDATA[Divine Elixir]]></entry>
+  <entry id="str_inventory_description_supplydivine_elixir"><![CDATA[Cure crimson curse and Buff Stress Resist as 20 percent.]]></entry>
+  </language>
+
+  <language id="tchinese">
+  <entry id="str_inventory_title_supplydivine_elixir"><![CDATA[Divine Elixir]]></entry>
+  <entry id="str_inventory_description_supplydivine_elixir"><![CDATA[Cure crimson curse and Buff Stress Resist as 20 percent.]]></entry> 
+  </language>
+  
+  <language id="schinese">
+  <entry id="str_inventory_title_supplydivine_elixir"><![CDATA[神圣药水]]></entry>
+  <entry id="str_inventory_description_supplydivine_elixir"><![CDATA[100%的几率增加20%压力抗性并清除一切不良状态, 有25%的几率治疗血色诅咒.]]></entry>
+  </language>
+
+ </root>

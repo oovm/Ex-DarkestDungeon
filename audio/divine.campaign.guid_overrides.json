@@ -1,0 +1,6 @@
+{
+    "event_guid_overrides":
+    [
+        {"event_id": "event:/general/items/divine_elixir",                   "guid_override":"{85046a66-a8e1-4ea6-a919-e1af2baa6e3d}"}
+    ]
+}

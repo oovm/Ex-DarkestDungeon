@@ -6,3 +6,6 @@
 *.exe
 *.psd
 Extra/
+
+# 本地化文件
+*.loc

@@ -5,3 +5,4 @@ Packages/*.m linguist-generated=true
 # make things fun lol
 *.json linguist-language=typescript
 *.darkest linguist-language=kotlin
+*.xml linguist-language=html

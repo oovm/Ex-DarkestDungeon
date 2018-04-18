@@ -1,4 +1,15 @@
-inventory_item:	.type "provision" 	.id ""				  .base_stack_limit 10000 .purchase_gold_value 75  .sell_gold_value 75
+inventory_item:	.type                "supply"
+                .id                  "divine_elixir"
+                .base_stack_limit    100
+                .purchase_gold_value 10000
+                .sell_gold_value     0
+
+
+inventory_item:	.type "provision"
+                .id ""
+                .base_stack_limit 10000
+                .purchase_gold_value 75
+                .sell_gold_value 75
 
 inventory_item:	.type "supply"	  	.id "shovel"			  .base_stack_limit 10000 .purchase_gold_value 250 .sell_gold_value 250
 inventory_item:	.type "supply"	  	.id "firewood"			  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0

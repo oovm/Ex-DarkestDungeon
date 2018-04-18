@@ -4,10 +4,11 @@
 	<ItemDescriptionShort/>
 	<ModDataPath>G:/Steam/steamapps/common/DarkestDungeon/mods/Ex-DarkestDungeon/</ModDataPath>
 	<Title>Ex-DarkestDungeon</Title>
-	<Language>Chinese</Language>
+	<Language>schinese</Language>
 	<UpdateDetails/>
 	<Visibility>public</Visibility>
-	<VersionMajor>0</VersionMajor>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>1</VersionMajor>
 	<VersionMinor>0</VersionMinor>
 	<TargetBuild>0</TargetBuild>
 	<Tags>
@@ -17,5 +18,6 @@
 	<ItemDescription>
 		Ex-DarkestDungeon
 	</ItemDescription>
+	<PublishedFileId>1365676503</PublishedFileId>
 </project>
 
