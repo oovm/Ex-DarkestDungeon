@@ -10,3 +10,5 @@
 Mod of Darkest Dungeon for personal use.
 
 DLC needed.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1365676503

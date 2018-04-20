@@ -7,5 +7,6 @@
 *.psd
 Extra/
 
-# 本地化文件
+# 上传自动生成
 *.loc
+modfiles.txt

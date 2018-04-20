@@ -11,8 +11,8 @@
   </language>
   
   <language id="schinese">
-  <entry id="str_inventory_title_supplydivine_elixir"><![CDATA[神圣药水]]></entry>
-  <entry id="str_inventory_description_supplydivine_elixir"><![CDATA[100%的几率增加20%压力抗性并清除一切不良状态, 有25%的几率治疗血色诅咒.]]></entry>
+  <entry id="str_inventory_title_supplydivine_elixir"><![CDATA[天使之泪]]></entry>
+  <entry id="str_inventory_description_supplydivine_elixir"><![CDATA[血色诅咒并增加20%压力抗性.]]></entry>
   </language>
 
  </root>
