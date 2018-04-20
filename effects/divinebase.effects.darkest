@@ -1,2 +1,9 @@
 //divine effect
-effect: .name "divine_elixir" .target "performer" .curio_result_type "positive" .chance 25% .remove_vampire 1 .on_hit true .on_miss true .queue true
+effect: .name "divine_elixir"
+        .target "performer"
+        .curio_result_type "positive"
+        .chance 100% .remove_vampire 1
+
+        .on_hit true
+        .on_miss true
+        .queue true

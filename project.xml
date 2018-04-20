@@ -9,14 +9,28 @@
 	<Visibility>public</Visibility>
 	<UploadMode>direct_upload</UploadMode>
 	<VersionMajor>1</VersionMajor>
-	<VersionMinor>0</VersionMinor>
+	<VersionMinor>1</VersionMinor>
 	<TargetBuild>0</TargetBuild>
 	<Tags>
 		<Tags>Overhauls</Tags>
-		<Tags/>
+		<Tags>Items</Tags>
+		<Tags>Moe!</Tags>
 	</Tags>
 	<ItemDescription>
-		Ex-DarkestDungeon
+		Mod of Darkest Dungeon for personal using.
+
+		个人使用的一些mod整合, 我受不了工坊里左一个补丁右一个补丁
+
+		更多信息参见:[url=https://github.com/GalAster/Ex-DarkestDungeon] Github [/url]
+
+        同时添加了一些汉化, 加载顺序在以下mod之前可以获得汉化:
+
+        [list]
+        [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1154908982] The Twilight Knight(暮光骑士) [/url]
+        [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1342714768] Daughters of the Fours Pack  [/url]
+        [/list]
+
+
 	</ItemDescription>
 	<PublishedFileId>1365676503</PublishedFileId>
 </project>
