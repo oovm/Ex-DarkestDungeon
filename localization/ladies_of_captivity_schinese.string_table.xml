@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+		 <entry id="town_event_title_knight_in_need"><![CDATA[Knight in Need]]></entry>
+		 <entry id="town_event_description_knight_in_need"><![CDATA[This Holy Knight has come in search of aid. The Princess she protects was taken by Bloodsuckers - into the depths of the Courtyard. Will you guide her search and steer her blade?]]></entry>		 
+		 <entry id="town_event_title_kill_the_baron"><![CDATA[Kill the Baron]]></entry>
+		 <entry id="town_event_description_kill_the_baron"><![CDATA[With the Baron dead, the Curse dissipates... temporarily. You find a young woman amongst the dead, clinging to life. A pet he had kept for the entertainment of his guests. Will you now aid her?]]></entry>
+		 <entry id="town_event_title_kill_the_viscount"><![CDATA[Kill the Vicount]]></entry>
+		 <entry id="town_event_description_kill_the_viscount"><![CDATA[As the Viscount falls your lands are cleansed of the Curse... for now. What is this, a woman in chains? A prisoner to be fed upon. Is this the Princess that the Holy Knight sought? Will you aid her?]]></entry>
+		 <entry id="town_event_title_kill_the_countess"><![CDATA[Kill the Countess]]></entry>
+		 <entry id="town_event_description_countess_dead"><![CDATA[The reign of the Countess has ended. Her death causes the curse to fade. With her death - the Princess is freed. Will you let her aid you or send her home to royal court?]]></entry>
+ </language>
+</root>
+   		 
