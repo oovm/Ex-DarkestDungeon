@@ -10,4 +10,5 @@ Extra/
 # 上传自动生成
 *.loc
 modfiles.txt
+missing_files.txt
 steam_workshop_uploader.log

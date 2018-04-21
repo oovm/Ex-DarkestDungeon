@@ -1,0 +1,94 @@
+// script for melee animation
+
+group:
+    tween:  camera.presentation     .value 1.0
+	tween:	camera.absolute_focus,y	.value 220
+    tween:	camera.absolute_focus_blend,y	.value 1.0
+	tween:	camera.zoom				.value 1.4		.time 0.025
+	tween:	presentation_camera.zoom .value 2.5
+    tween:	presentation_camera.blend .value 1.0	.time 0.025
+    tween:  camera.foreground_active  .value 0.0
+	tween:	layers.B_intensity		.value 1.2		.time 0.025
+	tween:	layers.A_saturation		.value 0.8		.time 0.025
+	tween:	layers.A_intensity		.value 1.0		.time 0.025
+	tween:	layers.A_blurriness		.value 4.0		.time 0.025
+	tween:	layers.HUD_alpha		.value 0.0		.time 0.025
+	tween:	layers.HUD_update		.value 0.0
+end:
+
+// area_pos_offset
+tween:	actor.area_pos,x	.delta_expr "skill_area_pos_offset_x"
+tween:	actor.area_pos,y	.delta_expr "skill_area_pos_offset_y"
+
+tween:	target.area_pos,x	.delta_expr "target1_defending_area_pos_offset_x"
+tween:	target.area_pos,y	.delta_expr "target1_defending_area_pos_offset_y"
+tween:	?target2.area_pos,x	.delta_expr "target2_defending_area_pos_offset_x"
+tween:	?target2.area_pos,y	.delta_expr "target2_defending_area_pos_offset_y"
+tween:	?target3.area_pos,x	.delta_expr "target3_defending_area_pos_offset_x"
+tween:	?target3.area_pos,y	.delta_expr "target3_defending_area_pos_offset_y"
+tween:	?target4.area_pos,x	.delta_expr "target4_defending_area_pos_offset_x"
+tween:	?target4.area_pos,y	.delta_expr "target4_defending_area_pos_offset_y"
+
+tween:	actor.area_pos,x	.expr "centre - offset - skill_area_pos_offset_x"
+tween:	target.area_pos,x	.expr "centre + (offset * 1.0) + target1_defending_area_pos_offset_x"
+tween:	?target2.area_pos,x	.expr "centre + (offset * 2.0) + target2_defending_area_pos_offset_x"
+tween:	?target3.area_pos,x	.expr "centre + (offset * 3.0) + target3_defending_area_pos_offset_x"
+tween:	?target4.area_pos,x	.expr "centre + (offset * 4.0) + target4_defending_area_pos_offset_x"
+
+lock:	actor.scale
+lock:	~target.scale
+lock:	~target.wash_colour
+
+tween:	actor.scale			.value 1.0
+tween:	~target.scale		.value 1.0
+
+tween:	presentation_camera.zoom		 .value 2.0
+
+// result popup
+lambda:	on_zoom_start_lambda
+
+// moving hold on zoom
+tween:	camera.tilt						.expr "dir * 1.0"
+tween:	camera.shudder,x				.expr "hit * 5.0"
+tween:	camera.shudder,y				.value 30.0
+// tween:	~target.wash_colour			.colour #ff0000ff
+
+group:
+    lambda: riposte                       .time 0.1
+	tween:	camera.tilt							.expr "dir * 5.0"	.time 0.6
+	tween:	camera.shudder,x						.value 0.0		.time 0.4	
+	tween:	actor.area_pos,x		.expr "centre - (offset * 0.3) - skill_area_pos_offset_x"	.time 0.6
+	tween:	target.area_pos,x		.expr "centre + (offset * 1.3) + target1_defending_area_pos_offset_x"	.time 0.6
+	tween:	?target2.area_pos,x		.expr "centre + (offset * 2.3) + target2_defending_area_pos_offset_x"	.time 0.6
+	tween:	?target3.area_pos,x		.expr "centre + (offset * 3.3) + target3_defending_area_pos_offset_x"	.time 0.6
+	tween:	?target4.area_pos,x		.expr "centre + (offset * 4.3) + target4_defending_area_pos_offset_x"	.time 0.6
+	// tween:	~target.wash_colour					.track self		.time 0.2
+end:
+
+lambda:	on_zoom_finish_lambda
+
+// move back to old position
+group:
+	tween:	camera.tilt							.value 0.0		.time 0.1
+	tween:	layers.A_saturation					.value 1.0		.time 0.1
+	tween:	layers.A_intensity					.value 1.0		.time 0.1
+	tween:	layers.A_blurriness					.value 0.0		.time 0.1
+	tween:	layers.B_intensity					.value 1.0		.time 0.1
+	tween:	camera.zoom					.track camera.zoom		.time 0.1
+	tween:	camera.absolute_focus_blend,y		.value 0.0		.time 0.1
+	tween:	presentation_camera.blend		.value 0.0  		.time 0.140	.easing easeOutBack
+    tween:  camera.foreground_active        .value 1.0
+	tween:	actor.area_pos,x				.track	self		.time 0.1	.easing easeOutSine
+	tween:	actor.area_pos,y				.track	self		.time 0.1	.easing easeOutSine
+	tween:	~target.area_pos,x				.track	self		.time 0.1	.easing easeOutSine
+	tween:	~target.area_pos,y				.track	self		.time 0.1	.easing easeOutSine
+end:
+
+tween:	layers.HUD_alpha					.value 1.0		.time 0.050
+tween:	layers.HUD_update					.value 1.0
+
+unlock:	actor.scale
+unlock:	~target.scale
+unlock: ~target.wash_colour
+
+tween:  camera.presentation     .value 0.0

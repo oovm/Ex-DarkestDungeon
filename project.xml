@@ -10,7 +10,7 @@
 	<UploadMode>direct_upload</UploadMode>
 	<VersionMajor>1</VersionMajor>
 	<VersionMinor>1</VersionMinor>
-	<TargetBuild>0</TargetBuild>
+	<TargetBuild>2</TargetBuild>
 	<Tags>
 		<Tags>Overhauls</Tags>
 		<Tags>Localizations</Tags>

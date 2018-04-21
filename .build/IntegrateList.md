@@ -16,3 +16,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1337355759
 用于治疗血色诅咒.
 
 - Mimics!
+
+
+- Faster Combat
+https://steamcommunity.com/sharedfiles/filedetails/?id=885957080
+战斗加速, 这游戏后期太磨蹭了.
