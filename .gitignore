@@ -12,3 +12,7 @@ Extra/
 modfiles.txt
 missing_files.txt
 steam_workshop_uploader.log
+
+# 历史清理
+#
+*.jar
