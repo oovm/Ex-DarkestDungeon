@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<language id="schinese">
+		<entry id="hero_class_name_first_daughter"><![CDATA[Of The First]]></entry>
+		<entry id="action_verbose_body_blacksmith_first_daughter"><![CDATA[First daughter blacksmith comment.]]></entry>
+
+		<entry id="action_verbose_body_guild_first_daughter"><![CDATA[First daughter guild comment]]></entry>
+
+		<entry id="action_verbose_body_camping_trainer_first_daughter"><![CDATA[First daughter camping comment]]></entry>
+
+		<entry id="town_event_title_first_first_daughter"><![CDATA[Holds the honor and glory]]></entry>
+		<entry id="town_event_description_first_first_daughter"><![CDATA[Something something first coment.]]></entry>
+
+		
+		<entry id="combat_skill_name_first_daughter_parabolic"><![CDATA[Parabolic Shot]]></entry>
+		<entry id="combat_skill_name_first_daughter_dominance"><![CDATA[Field's Dominance]]></entry>
+		<entry id="combat_skill_name_first_daughter_fear"><![CDATA[Fearsome Death]]></entry>
+		<entry id="combat_skill_name_first_daughter_desesperation"><![CDATA[Desesperation]]></entry>
+        <entry id="combat_skill_name_first_daughter_conqueror"><![CDATA[Conqueror's Price]]></entry>
+		<entry id="combat_skill_name_first_daughter_dogma"><![CDATA[My Dogma]]></entry>
+		<entry id="combat_skill_name_first_daughter_glory"><![CDATA[Bigger Glory]]></entry>
+		<entry id="combat_skill_name_first_daughter_move"><![CDATA[Move]]></entry>
+		
+		<entry id="upgrade_tree_name_first_daughter.parabolic"><![CDATA[Parabolic Shot]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.dominance"><![CDATA[Field's Dominance]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.fear"><![CDATA[Fearsome Death]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.desesperation"><![CDATA[Desesperation]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.conqueror"><![CDATA[Conqueror's Price]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.dogma"><![CDATA[My Dogma]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.glory"><![CDATA[Bigger Glory]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.first_father1"><![CDATA[The Bloodline of the First]]></entry>
+
+		<entry id="buff_rule_data_tooltip_desesperation"><![CDATA[Desesperation]]></entry>
+		<entry id="buff_rule_data_tooltip_parabolic"><![CDATA[Parabolic Shot]]></entry>
+
+		<entry id="first_daughter_weapon_0"><![CDATA[Extincted Crown]]></entry>
+   		<entry id="first_daughter_weapon_1"><![CDATA[Extincted Broken Crown]]></entry>
+		<entry id="first_daughter_weapon_2"><![CDATA[White Broken Bow]]></entry>
+		<entry id="first_daughter_weapon_3"><![CDATA[First's Broken Bow]]></entry>
+		<entry id="first_daughter_weapon_4"><![CDATA[First's Heirdom]]></entry>
+
+		<entry id="upgrade_tree_name_first_daughter.weapon"><![CDATA[Heirdom of the White]]></entry>
+
+		<entry id="first_daughter_armour_0"><![CDATA[Inheritor of the First]]></entry>
+		<entry id="first_daughter_armour_1"><![CDATA[Blood of the First]]></entry>
+		<entry id="first_daughter_armour_2"><![CDATA[Lineage of the First]]></entry>
+		<entry id="first_daughter_armour_3"><![CDATA[Relative of the First]]></entry>
+		<entry id="first_daughter_armour_4"><![CDATA[Daughter of the First]]></entry>
+
+		<entry id="upgrade_tree_name_first_daughter.armour"><![CDATA[First's Bloodline]]></entry>
+		
+
+        <entry id="first_daughter+str_critbyhero"><![CDATA[Neath a faltered sky...]]></entry>
+        <entry id="first_daughter+str_critbyhero"><![CDATA[...cross loamless plains...]]></entry>
+        <entry id="first_daughter+str_critbyhero"><![CDATA[...and watered blight~]]></entry>
+ 	    <entry id="first_daughter+str_critbyhero"><![CDATA[Ah! Where gone those days, once Glory shone so bright?]]></entry>
+	    <entry id="first_daughter+str_critbyhero"><![CDATA[Fallen 'neath baleful wings dark as night.]]></entry>
+	    <entry id="first_daughter+str_critbyhero"><![CDATA[Ah! A moment give to me]]></entry>
+	    <entry id="first_daughter+str_critbyhero"><![CDATA[Hark! Shall none hear this soul's tale...]]></entry>
+		<entry id="first_daughter+str_critbyhero"><![CDATA[...Of a land, benight?]]></entry>
+		<entry id="first_daughter+str_critbyhero"><![CDATA[Finish the cycle of eternal return.﻿]]></entry>
+
+	 	<entry id="first_daughter+str_afflicton_underconfident"><![CDATA[Untrustworthy]]></entry>
+	    <entry id="first_daughter+str_afflicted_underconfident"><![CDATA[I-I cant die now... my father's waiting]]></entry>
+	    <entry id="first_daughter+str_afflicted_underconfident"><![CDATA[I must survive at any cost...]]></entry>
+	    <entry id="first_daughter+str_afflicted_underconfident"><![CDATA[This isn't working at all!]]></entry>
+
+	    <entry id="first_daughter+str_random_command_underconfident"><![CDATA[Victory at any cost!]]></entry>
+	    <entry id="first_daughter+str_random_command_underconfident"><![CDATA[Die!]]></entry>
+	    <entry id="first_daughter+str_random_command_underconfident"><![CDATA[I can not be defeated!]]></entry>
+	    <entry id="first_daughter+str_random_command_underconfident"><![CDATA[I'll follow my instinct!]]></entry>
+	    <entry id="first_daughter+str_random_command_underconfident"><![CDATA[Honor awaits me!]]></entry>
+	    <entry id="first_daughter+str_random_command_underconfident"><![CDATA[Honor awaits me!]]></entry>
+
+
+	    <entry id="first_daughter+str_bark_stress_camp_underconfident"><![CDATA[I've to surivive even without you...]]></entry>
+	    <entry id="first_daughter+str_bark_stress_camp_underconfident"><![CDATA[S-should I run...?]]></entry>
+	    <entry id="first_daughter+str_bark_stress_camp_underconfident"><![CDATA[I can't believe this is happening to me.]]></entry>
+	  
+
+	    <entry id="first_daughter+str_roster_list_underconfident_bark"><![CDATA[Don't choose me, please.]]></entry>    
+	    <entry id="first_daughter+str_roster_list_underconfident_bark"><![CDATA[I... don't feel good.]]></entry>    
+	    <entry id="first_daughter+str_roster_list_underconfident_bark"><![CDATA[Why this is happening?]]></entry>    
+
+
+	  	<entry id="first_daughter+str_mark_self_underconfident"><![CDATA[I-I'll protect you!]]></entry>
+
+	  	<entry id="first_daughter+str_change_pos_underconfident"><![CDATA[This position is not safe enough.]]></entry>
+
+	  	<entry id="first_daughter+str_ignore_command_underconfident"><![CDATA[Not now... Let me see an opening.]]></entry>
+	  	<entry id="first_daughter+str_ignore_command_underconfident"><![CDATA[I'll fail this time, so it's safer to stay here and wait.]]></entry>
+	  	<entry id="first_daughter+str_ignore_command_underconfident"><![CDATA[Wait! I'm not prepared yet!]]></entry>
+	  	<entry id="first_daughter+str_ignore_command_underconfident"><![CDATA[Forgive me... I-I'm not that sure right now.]]></entry>
+	  	<entry id="first_daughter+str_ignore_command_underconfident"><![CDATA[Have mercy!]]></entry>
+
+
+	  	<entry id="first_daughter+str_block_move_underconfident"><![CDATA[Not now! They're watching me!]]></entry>
+	  	<entry id="first_daughter+str_block_move_underconfident"><![CDATA[If I move, I'll get hurt...]]></entry>
+	  	<entry id="first_daughter+str_block_move_underconfident"><![CDATA[My legs seems heavier than usual...]]></entry>
+
+	  	<entry id="first_daughter+str_comment_self_missed_underconfident"><![CDATA[Why are you attacking me?!]]></entry>
+	  	<entry id="first_daughter+str_comment_self_missed_underconfident"><![CDATA[Leave me alone!]]></entry>
+	  	<entry id="first_daughter+str_comment_self_missed_underconfident"><![CDATA[Please! No more!]]></entry>
+
+
+	  	<entry id="first_daughter+str_comment_ally_attack_missed_underconfident"><![CDATA[What just happened?!]]></entry>
+	  	<entry id="first_daughter+str_comment_ally_attack_missed_underconfident"><![CDATA[What?! Not fair...]]></entry>
+	  	<entry id="first_daughter+str_comment_ally_attack_missed_underconfident"><![CDATA[Please, don't fail again...]]></entry>
+	  	<entry id="first_daughter+str_comment_ally_attack_missed_underconfident"><![CDATA[If we keep failing, we're gonna die sooner.]]></entry>
+
+	  	<entry id="first_daughter+str_comment_move_underconfident"><![CDATA[Is this... a safer spot?]]></entry>
+	  	<entry id="first_daughter+str_comment_move_underconfident"><![CDATA[I don't think this change will make too much difference.]]></entry>
+
+	  	<entry id="first_daughter+str_comment_curio_interaction_underconfident"><![CDATA[Please, don't do that again. It's dangerous.]]></entry>
+	  	<entry id="first_daughter+str_comment_curio_interaction_underconfident"><![CDATA[Touching unusual things brings us to the unwelcome end.]]></entry>
+	  	<entry id="first_daughter+str_comment_curio_interaction_underconfident"><![CDATA[We're playing against the fate itself.]]></entry>
+	  	<entry id="first_daughter+str_comment_curio_interaction_underconfident"><![CDATA[Felt like losing some years from my lifetime.]]></entry>
+
+
+	  	<entry id="first_daughter+str_comment_trap_triggered_underconfident"><![CDATA[Unconfortable... unpleasant... uncertain is the fortune.]]></entry>
+	  	<entry id="first_daughter+str_comment_trap_triggered_underconfident"><![CDATA[Hidden traps! Ruthless desires hidden underground.]]></entry>
+
+
+
+
+	  	<entry id="buff_stat_tooltip_activity_side_effect_chance_conqueror_price"><![CDATA[Grants {colour_start|notable}1 additional round{colour_end} to the enemy group.]]></entry>
+	  	<entry id="buff_stat_tooltip_activity_side_effect_chance_conqueror_price_allies"><![CDATA[Grants {colour_start|notable}1 additional round{colour_end} to your ally.]]></entry>
+	  	<entry id="buff_stat_tooltip_activity_side_effect_chance_first_dogma"><![CDATA[The round {colour_start|notable}doesn't ends{colour_end}.]]></entry>
+
+	   
+	</language>
+	</root>

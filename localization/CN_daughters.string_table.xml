@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<language id="schinese">		
+	     
+        <entry id="effect_tooltip_target_enemy_group_buff"><![CDATA[{colour_start|debuff}Buff Enemy Group:{colour_end}]]></entry>
+
+        <entry id="party_name_daughter_default_name"><![CDATA[Daughters of the Fours]]></entry>
+
+         <entry id="town_event_title_bonus_recruit_daughters"><![CDATA[The Daughters of the Fours]]></entry>
+         <entry id="town_event_description_bonus_recruit_daughters"><![CDATA[The Daughters of the Fours DESCRIPTION]]></entry>   
+
+
+	     <entry id="camping_skill_name_afflict_me"><![CDATA[Force the Affliction]]></entry>		
+
+
+    	<entry id="str_affliction_description_narcissistic"><![CDATA[“God become one. Beyond mortality”]]></entry>
+    	<entry id="str_affliction_name_narcissistic"><![CDATA[Egolistic]]></entry>
+
+
+
+    	<entry id="str_virtue_description_worthless"><![CDATA[“Become greater by knowing your weaknesses”]]></entry>
+    	<entry id="str_virtue_name_worthless"><![CDATA[Expendable]]></entry>
+
+    	<entry id="buff_rule_data_tooltip_dominance"><![CDATA[Field's Dominance]]></entry>
+    	<entry id="buff_rule_data_tooltip_dogma"><![CDATA[My Dogma]]></entry>
+
+    	<entry id="buff_rule_data_tooltip_supremacy"><![CDATA[Impose Supremacy]]></entry>
+    	<entry id="buff_rule_data_tooltip_verdict"><![CDATA[Verdict]]></entry>
+
+    	<entry id="buff_rule_data_tooltip_frypan"><![CDATA[Frypan of Power]]></entry>
+
+    	<entry id="buff_rule_data_tooltip_deny_death"><![CDATA[The Hug]]></entry>
+    	<entry id="buff_rule_data_tooltip_life_gift"><![CDATA[Life's Gift]]></entry>
+
+
+        <entry id="camping_skill_name_second_right_loot"><![CDATA[The Second's right hand]]></entry>
+        <entry id="camping_skill_name_second_left_loot"><![CDATA[The Second's left hand]]></entry>
+        <entry id="camping_skill_name_first_right_loot"><![CDATA[The First's right hand]]></entry>
+        <entry id="camping_skill_name_first_left_loot"><![CDATA[The First's left hand]]></entry>
+        <entry id="camping_skill_name_fourth_right_loot"><![CDATA[The Fourth's right hand]]></entry>
+        <entry id="camping_skill_name_fourth_left_loot"><![CDATA[The Fourth's left hand]]></entry>
+
+        <entry id="camping_skill_name_third_provision_loot"><![CDATA[Auxiliar Provisions]]></entry>
+        <entry id="camping_skill_name_third_torch_loot"><![CDATA[Auxiliar Torches]]></entry>
+        <entry id="camping_skill_name_third_shovel_loot"><![CDATA[Auxiliar Shovel]]></entry>
+        <entry id="camping_skill_name_third_bandage_loot"><![CDATA[Auxiliar Bandage]]></entry>
+        <entry id="camping_skill_name_third_antivenom_loot"><![CDATA[Axuliar Antivenom]]></entry>
+        <entry id="camping_skill_name_third_herbs_loot"><![CDATA[Auxiliar Medicinal Herbs]]></entry>
+
+
+
+        <entry id="str_bark_second_left_loot"><![CDATA[]]></entry>
+        <entry id="str_bark_second_left_loot"><![CDATA[]]></entry>
+        <entry id="str_bark_first_left_loot"><![CDATA[]]></entry>
+        <entry id="str_bark_first_right_loot"><![CDATA[]]></entry>
+        <entry id="str_bark_fourth_left_loot"><![CDATA[]]></entry>
+        <entry id="str_bark_fourth_right_loot"><![CDATA[]]></entry>
+
+
+
+        <entry id="str_inventory_title_supplysecond_left"><![CDATA[The Second's left hand]]></entry>
+        <entry id="str_inventory_title_supplysecond_right"><![CDATA[The Second's right hand]]></entry>
+        <entry id="str_inventory_title_supplyfirst_left"><![CDATA[The First's left hand]]></entry>
+        <entry id="str_inventory_title_supplyfirst_right"><![CDATA[The First's right hand]]></entry>
+        <entry id="str_inventory_title_supplyfourth_left"><![CDATA[The Fourth's left hand]]></entry>
+        <entry id="str_inventory_title_supplyfourth_right"><![CDATA[The Fourth's right hand]]></entry>
+
+        <entry id="str_inventory_description_supplysecond_right"><![CDATA[Protect from {colour_start|stress}stress{colour_end} damage for 1 round.]]></entry>
+        <entry id="str_inventory_description_supplysecond_left"><![CDATA[Next attack will CRIT.]]></entry>
+
+        <entry id="str_inventory_description_supplyfirst_right"><![CDATA[Ignore protection for 1 round.]]></entry>
+        <entry id="str_inventory_description_supplyfirst_left"><![CDATA[Reduce huge amout of damage for 1 round.]]></entry>
+
+        <entry id="str_inventory_description_supplyfourth_right"><![CDATA[100% DMG at {colour_start|deathdoor}Death's door{colour_end} for 1 round.]]></entry>
+        <entry id="str_inventory_description_supplyfourth_left"><![CDATA[1 HP {colour_start|healhp}heal{colour_end} each round for 4 rounds.]]></entry>
+
+        <entry id="str_inventory_title_supplyfourth_calling"><![CDATA[The Fourth's calling]]></entry>
+        <entry id="str_inventory_description_supplyfourth_calling"><![CDATA[Deals self huge {colour_start|deathdoor}damage{colour_end}.]]></entry>
+
+
+        <entry id="str_affliction_description_underconfident"><![CDATA[“Remind yourself that underconfidence is a pudrid killer”]]></entry>
+        <entry id="str_affliction_name_underconfident"><![CDATA[Underconfident]]></entry>
+
+        <entry id="str_affliction_description_apathetic"><![CDATA[“The fate is deterministic. Life is meaningless”]]></entry>
+        <entry id="str_affliction_name_apathetic"><![CDATA[Apathetic]]></entry>
+
+        <entry id="fourth_daughter+str_afflicton_apathetic"><![CDATA[Apathetic]]></entry>
+        <entry id="fourth_daughter+str_afflicted_apathetic"><![CDATA[I don't know why I even bother...]]></entry>
+        <entry id="fourth_daughter+str_afflicted_apathetic"><![CDATA[Well, seems like I've to do your work instead...]]></entry>
+        <entry id="fourth_daughter+str_afflicted_apathetic"><![CDATA[Good job. Now we're in trouble... Let me fix this like always]]></entry>
+
+        <entry id="fourth_daughter+str_roster_list_apathetic_bark"><![CDATA[What are you waiting...? Nothing gonna change whatever you do anyways.]]></entry>
+        <entry id="fourth_daughter+str_roster_list_apathetic_bark"><![CDATA[Can you... well, doesn't matter.]]></entry>
+        <entry id="fourth_daughter+str_roster_list_apathetic_bark"><![CDATA[<Sighs>]]></entry>
+
+
+        <entry id="fourth_daughter+str_ignore_command_apathetic"><![CDATA[Meaningless efforts...]]></entry>
+        <entry id="fourth_daughter+str_ignore_command_apathetic"><![CDATA[Why always me?]]></entry>
+        <entry id="fourth_daughter+str_ignore_command_apathetic"><![CDATA[Next time maybe...]]></entry>
+        <entry id="fourth_daughter+str_ignore_command_apathetic"><![CDATA[<sigh>]]></entry>
+        <entry id="fourth_daughter+str_ignore_command_apathetic"><![CDATA[]]></entry>
+        <entry id="fourth_daughter+str_ignore_command_apathetic"><![CDATA[]]></entry>
+
+	</language>
+	</root>

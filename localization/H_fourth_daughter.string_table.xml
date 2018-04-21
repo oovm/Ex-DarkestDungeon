@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<language id="schinese">
+		<entry id="hero_class_name_fourth_daughter"><![CDATA[Of The Fourth]]></entry>
+		<entry id="action_verbose_body_blacksmith_fourth_daughter"><![CDATA[Fourth daughter blacksmith comment.]]></entry>
+
+		<entry id="action_verbose_body_guild_fourth_daughter"><![CDATA[Fourth daughter guild comment]]></entry>
+
+		<entry id="action_verbose_body_camping_trainer_fourth_daughter"><![CDATA[Fourth daughter camping comment]]></entry>
+
+		<entry id="town_event_title_first_fourth_daughter"><![CDATA[Holds those within life and death]]></entry>
+		<entry id="town_event_description_first_fourth_daughter"><![CDATA[Something something fourth coment.]]></entry>
+
+	    <entry id="skill_performer_hp_max"><![CDATA[Valid below %d%% HP]]></entry>
+		<entry id="skill_performer_hp_min"><![CDATA[Valid above %d%% HP]]></entry>
+    	<entry id="skill_performer_hp_range"><![CDATA[Valid %d%% to %d%% HP]]></entry>
+
+    	<entry id="buff_stat_tooltip_disable_combat_skill_attribute_stun"><![CDATA[Can't use {colour_start|stun}stun{colour_end} skills]]></entry>
+    	<entry id="buff_stat_tooltip_disable_combat_skill_attribute_guard"><![CDATA[Can't use {colour_start|guard}guard{colour_end} skills]]></entry>
+    	<entry id="effect_tooltip_steal_bsrc_skill"><![CDATA[Transfers the {colour_start|buff}buff{colour_end} and {colour_start|debuff}debuff{colour_end} skills]]></entry>
+
+
+
+	    <entry id="effect_tooltip_steal_bsrc_riposte"><![CDATA[{colour_start|deathdoor}Steals{colour_end} the enemy {colour_start|riposte}Riposte{colour_end}]]></entry>	
+	    <entry id="effect_tooltip_steal_bsrc_riposte"><![CDATA[{colour_start|deathdoor}Steals{colour_end} the enemy {colour_start|riposte}Riposte{colour_end}]]></entry>	
+	    <entry id="effect_tooltip_steal_bsrc_trinket_set"><![CDATA[Grants {colour_start|notable}additional rounds{colour_end}]]></entry>
+	    <entry id="effect_tooltip_steal_bsrc_quirk"><![CDATA[Remove {colour_start|notable}1 round{colour_end} from target]]></entry>
+
+		
+		<entry id="combat_skill_name_fourth_daughter_heal_riposte"><![CDATA[{colour_start|white}(1){colour_end} Sharing Curse]]></entry>
+
+		<entry id="combat_skill_name_fourth_daughter_last_guardian"><![CDATA[{colour_start|white}(3){colour_end} Last Guardian]]></entry>
+		<entry id="combat_skill_name_fourth_daughter_life_gift"><![CDATA[{colour_start|white}(2){colour_end} Life's Gift]]></entry>
+		<entry id="combat_skill_name_fourth_daughter_beyond_limits"><![CDATA[{colour_start|white}(2){colour_end} Beyond Limits]]></entry>
+        <entry id="combat_skill_name_fourth_daughter_deny_death"><![CDATA[{colour_start|white}(2+1){colour_end} The Hug]]></entry>
+		<entry id="combat_skill_name_fourth_daughter_catalyst"><![CDATA[{colour_start|white}(0){colour_end} Self Catalyst]]></entry>
+		<entry id="combat_skill_name_fourth_daughter_debilitation"><![CDATA[{colour_start|white}(3){colour_end} Reclaim]]></entry>
+		<entry id="combat_skill_name_fourth_daughter_move"><![CDATA[Move]]></entry>
+		
+		<entry id="upgrade_tree_name_fourth_daughter.heal_riposte"><![CDATA[Sharing Life]]></entry>
+		<entry id="upgrade_tree_name_fourth_daughter.last_guardian"><![CDATA[Last Guardian]]></entry>
+		<entry id="upgrade_tree_name_fourth_daughter.life_gift"><![CDATA[Life's Gift]]></entry>
+		<entry id="upgrade_tree_name_fourth_daughter.beyond_limits"><![CDATA[Beyond Limits]]></entry>
+		<entry id="upgrade_tree_name_fourth_daughter.deny_death"><![CDATA[The Hug]]></entry>
+		<entry id="upgrade_tree_name_fourth_daughter.catalyst"><![CDATA[Self Catalyst]]></entry>
+		<entry id="upgrade_tree_name_fourth_daughter.debilitation"><![CDATA[Reclaim]]></entry>
+
+		<entry id="fourth_daughter_weapon_0"><![CDATA[Extincted Hades]]></entry>
+   		<entry id="fourth_daughter_weapon_1"><![CDATA[Extincted Beloved Hades]]></entry>
+		<entry id="fourth_daughter_weapon_2"><![CDATA[Pale Beloved Hades]]></entry>
+		<entry id="fourth_daughter_weapon_3"><![CDATA[Fourth's Beloved Hades]]></entry>
+		<entry id="fourth_daughter_weapon_4"><![CDATA[Fourth's Hades]]></entry>
+
+		<entry id="upgrade_tree_name_fourth_daughter.weapon"><![CDATA[Hades of the Pale]]></entry>
+
+		<entry id="fourth_daughter_armour_0"><![CDATA[Inheritor of the Fourth]]></entry>
+		<entry id="fourth_daughter_armour_1"><![CDATA[Blood of the Fourth]]></entry>
+		<entry id="fourth_daughter_armour_2"><![CDATA[Lineage of the Fourth]]></entry>
+		<entry id="fourth_daughter_armour_3"><![CDATA[Relative of the Fourth]]></entry>
+		<entry id="fourth_daughter_armour_4"><![CDATA[Daughter of the Fourth]]></entry>
+
+		<entry id="upgrade_tree_name_fourth_daughter.armour"><![CDATA[Fourth's Bloodline]]></entry>
+
+
+	
+
+
+
+
+	  
+	     <entry id="fourth_daughter+str_bark_hobby"><![CDATA[Pale flowers are the cutest ones~]]></entry>
+	     <entry id="fourth_daughter+str_bark_hobby"><![CDATA[I can not remember any kind of dream. I wonder what feels like to see one of those.]]></entry>
+	     <entry id="fourth_daughter+str_bark_hobby"><![CDATA[I only care about beautiful flowers, but I'm not batting an eye for the ugly ones.]]></entry>
+	     <entry id="fourth_daughter+str_bark_deathsdoor"><![CDATA[I'm ready...]]></entry>
+	     <entry id="fourth_daughter+str_bark_deathsdoor"><![CDATA[I'm use to this...]]></entry>
+	     <entry id="fourth_daughter+str_bark_deathsdoor"><![CDATA[No one will die at my watch.]]></entry>
+	     <entry id="fourth_daughter+str_bark_deathsdoor"><![CDATA[You're locked in here with me.]]></entry>
+	     <entry id="fourth_daughter+str_bark_deathsdoor"><![CDATA[Heroes will never die.]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_paranoid"><![CDATA[How do I know it isn't poisoned?]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_paranoid"><![CDATA[I can't eat if you're watching.]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_masochist"><![CDATA[When we ran out of food we devoured the corpses.]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_masochist"><![CDATA[I don't need to eat.]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_masochist"><![CDATA[Food is for the weak!]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_depressed"><![CDATA[I'm sure one of you is more needy.]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_depressed"><![CDATA[Every mouthful tastes like ashes.]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_depressed"><![CDATA[Why fill guts that are due to be spilled?]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_irrational"><![CDATA[I absolutely refuse to eat anything with a face!]]></entry>
+	     <entry id="fourth_daughter+str_campingMealBalk_irrational"><![CDATA[My sword is all the sustainance that I need.]]></entry>	
+
+        <entry id="buff_stat_tooltip_activity_side_effect_chance_fourth_remove"><![CDATA[Remove {colour_start|notable}1 round{colour_end}.]]></entry>
+        <entry id="buff_stat_tooltip_activity_side_effect_chance_fourth_add"><![CDATA[Grants {colour_start|notable}additional rounds{colour_end}.]]></entry>
+        <entry id="buff_stat_tooltip_activity_side_effect_chance_fourth_self_backfire"><![CDATA[If miss/dodge: {colour_start|debuff}self debuff instead{colour_end}.]]></entry>
+        <entry id="buff_stat_tooltip_activity_side_effect_chance_fourth_self_stress"><![CDATA[{colour_start|stress}Stress{colour_end} heal applies on miss/dodge.]]></entry>
+
+	</language>
+	</root>
