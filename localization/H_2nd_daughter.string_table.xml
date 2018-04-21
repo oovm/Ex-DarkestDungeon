@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<language id="schinese">
+		<entry id="hero_class_name_second_daughter"><![CDATA[Of The Second]]></entry>
+		<entry id="action_verbose_body_blacksmith_second_daughter"><![CDATA[Second daughter blacksmith comment.]]></entry>
+
+		<entry id="action_verbose_body_guild_second_daughter"><![CDATA[Second daughter guild comment]]></entry>
+
+		<entry id="action_verbose_body_camping_trainer_second_daughter"><![CDATA[Second daughter camping comment]]></entry>
+
+		<entry id="town_event_title_first_second_daughter"><![CDATA[Holds the hope beyond fears]]></entry>
+		<entry id="town_event_description_first_second_daughter"><![CDATA[Something something first coment.]]></entry>
+
+		
+		<entry id="combat_skill_name_second_daughter_demoralize"><![CDATA[Demoralize]]></entry>
+		<entry id="combat_skill_name_second_daughter_supremacy"><![CDATA[Impose Supremacy]]></entry>
+		<entry id="combat_skill_name_second_daughter_inner_desire"><![CDATA[Shared Desire]]></entry>
+		<entry id="combat_skill_name_second_daughter_verdict"><![CDATA[Verdict]]></entry>
+        <entry id="combat_skill_name_second_daughter_disruptor"><![CDATA[Midline Disruptor]]></entry>
+		<entry id="combat_skill_name_second_daughter_unlimited_blades"><![CDATA[Unlimited Blades]]></entry>
+		<entry id="combat_skill_name_second_daughter_longilus"><![CDATA[Longilus's wound]]></entry>
+		<entry id="combat_skill_name_second_daughter_move"><![CDATA[Move]]></entry>
+		
+		<entry id="upgrade_tree_name_second_daughter.demoralize"><![CDATA[Demoralize]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.supremacy"><![CDATA[Impose Supremacy]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.inner_desire"><![CDATA[Shared Desire]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.verdict"><![CDATA[Verdict]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.disruptor"><![CDATA[Midline Disruptor]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.unlimited_blades"><![CDATA[Unlimited Blades]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.longilus"><![CDATA[Longilus's wound]]></entry>
+		<entry id="upgrade_tree_name_second_daughter.second_father1"><![CDATA[The Bloodline of the Second]]></entry>
+
+		<entry id="second_daughter_weapon_0"><![CDATA[Extincted Sword]]></entry>
+   		<entry id="second_daughter_weapon_1"><![CDATA[Extincted Inspiring Sword]]></entry>
+		<entry id="second_daughter_weapon_2"><![CDATA[Red Inspiring Sword]]></entry>
+		<entry id="second_daughter_weapon_3"><![CDATA[Second's Inspiring Sword]]></entry>
+		<entry id="second_daughter_weapon_4"><![CDATA[Second's Sword]]></entry>
+
+		<entry id="upgrade_tree_name_second_daughter.weapon"><![CDATA[Sword of the Red]]></entry>
+
+		<entry id="second_daughter_armour_0"><![CDATA[Inheritor of the Second]]></entry>
+		<entry id="second_daughter_armour_1"><![CDATA[Blood of the Second]]></entry>
+		<entry id="second_daughter_armour_2"><![CDATA[Lineage of the Second]]></entry>
+		<entry id="second_daughter_armour_3"><![CDATA[Relative of the Second]]></entry>
+		<entry id="second_daughter_armour_4"><![CDATA[Daughter of the Second]]></entry>
+
+		<entry id="upgrade_tree_name_second_daughter.armour"><![CDATA[Second's Bloodline]]></entry>
+
+		<entry id="effect_tooltip_steal_stress_dot"><![CDATA[Transfer the {colour_start|inventory_amount_unselectable}Horror{colour_end}]]></entry>
+
+		<entry id="str_ui_entering_second_align_father1"><![CDATA[Alignment with the Second Father]]></entry>
+		<entry id="str_quirk_name_second_align_father1"><![CDATA[Blood of the Second Father]]></entry>
+		<entry id="str_quirk_description_second_align_father1"><![CDATA[The alignment with the "Blood of the Second Father" has been established.]]></entry>
+
+		<entry id="quirk_transition_second_align_father1_to_second_align_father2"><![CDATA[My blood, its purity boils in me.]]></entry>
+
+
+		<entry id="str_ui_entering_second_align_father2"><![CDATA[Closer with the Second Father]]></entry>
+		<entry id="str_quirk_name_second_align_father2"><![CDATA[Bloodline of the Second Father]]></entry>
+		<entry id="str_quirk_description_second_align_father2"><![CDATA[The "Blood of the Second Father" breaths.]]></entry>
+		
+       
+       	<entry id="quirk_transition_second_align_father3_to_second_align_father3"><![CDATA[I have returned to you, father.]]></entry>
+
+
+		<entry id="str_ui_entering_second_align_father3"><![CDATA[Closer with the Second Father]]></entry>
+		<entry id="str_quirk_name_second_align_father3"><![CDATA[The daughter of the Second Father]]></entry>
+		<entry id="str_quirk_description_second_align_father3"><![CDATA[Her blood pulsate, her fate now is settled.]]></entry>
+
+        <entry id="second_daughter+str_critbyhero"><![CDATA[These scars long have yearned for your tender caress~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[To bind our fortunes, damn what the stars own~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[Rend my heart open, then your love profess~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[A winding, weaving fate to which we both atone~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[You flee my dream come the morning~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[Your scent~ berries tart, lilac sweet~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[To dream of raven locks entwisted, stormy~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[Of violet eyes, glistening as you weep~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[The wolf I will follow into the storm~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[To find your heart, it's passion displaced~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[By ire ever growing, hardening into stone~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[Amidst the cold to hold you in a heated embrace~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[I know not if fate would have us live as one~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[Or if by love's blind chance we've been bound~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[The wish I whispered, when it all began~♪]]></entry>
+        <entry id="second_daughter+str_critbyhero"><![CDATA[Did it forge a love you might never have found?~♪]]></entry>
+
+       
+
+	    <entry id="second_daughter+str_afflicton_narcissistic"><![CDATA[Egolistic]]></entry>
+	    <entry id="second_daughter+str_afflicted_narcissistic"><![CDATA[Divinity become in flesh... behold me, mortals.]]></entry>
+	    <entry id="second_daughter+str_afflicted_narcissistic"><![CDATA[Judgment is within me, daughter of War.]]></entry>
+	    <entry id="second_daughter+str_afflicted_narcissistic"><![CDATA[Apocalypse has come. The End in my blade.]]></entry>
+
+	    <entry id="second_daughter+str_roster_list_narcissistic_bark"><![CDATA[What are you waiting for?]]></entry>    
+	    <entry id="second_daughter+str_roster_list_narcissistic_bark"><![CDATA[Choose me for this mission. I'll destroy them!]]></entry>    
+	    <entry id="second_daughter+str_roster_list_narcissistic_bark"><![CDATA[My sword shakes hoping some blood!]]></entry>    
+	    <entry id="second_daughter+str_roster_list_narcissistic_bark"><![CDATA[If only I had my Spear, even the Gods would fear me.]]></entry>    
+
+	    
+
+	    <entry id="second_daughter+str_heal_self_narcissistic"><![CDATA[No wound can persuade me to stop.]]></entry>
+	    <entry id="second_daughter+str_heal_self_narcissistic"><![CDATA[None damage is enough.]]></entry>
+	    <entry id="second_daughter+str_heal_self_narcissistic"><![CDATA[My will is unstoppable.]]></entry>
+	    <entry id="second_daughter+str_heal_self_narcissistic"><![CDATA[My body will endure any damage.]]></entry>
+	    <entry id="second_daughter+str_heal_self_narcissistic"><![CDATA[Blood should be spilled but not mine.]]></entry>
+
+	    <entry id="second_daughter+str_random_command_narcissistic"><![CDATA[Behold me!]]></entry>
+	    
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Everyone dies.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Insignificant effort.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Without me... try to survive.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Fate is inevitable. Give up.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[You or them? None of you are gonna make it.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Misery is the only thing that remains.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Don't worry, I'll bury you all properly.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Your souls for my glory.]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Yes! I'm gonna kill you all!]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Ha! Pitty of you...]]></entry>
+	    <entry id="second_daughter+str_bark_stress_narcissistic"><![CDATA[Adore me as your goddess.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Ancestors are waiting... don't make it longer.]]></entry>
+
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Unnecesary. Now let me finish it rightly.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Make them angry... I'm gonna face them.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Stop. That's making everything worst.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[One step to another... inevitable fate.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Why don't just hide?]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Kill him if you will, but they'll still coming.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[I should reward you with a good burial.]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Let me tell you a joke...]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Can sense the cold hand behind you?]]></entry>
+	    <entry id="second_daughter+str_comment_ally_attack_hit_narcissistic"><![CDATA[Face them... but the danger is within you.]]></entry>
+
+	    <entry id="second_daughter+str_block_combat_retreat_narcissistic"><![CDATA[Neither higher being can hold me.]]></entry>
+	    <entry id="second_daughter+str_block_move_narcissistic"><![CDATA[I'm not moving, not for you...]]></entry>
+	    <entry id="second_daughter+str_block_move_narcissistic"><![CDATA[Shall my ground blessed.]]></entry>
+	    <entry id="second_daughter+str_block_move_narcissistic"><![CDATA[Fixed point in existence.]]></entry>
+	    <entry id="second_daughter+str_block_move_narcissistic"><![CDATA[Not at your command.]]></entry>
+	    <entry id="second_daughter+str_block_move_narcissistic"><![CDATA[Can not move those one who can upstand the inevitable.]]></entry>
+
+	    <entry id="second_daughter+str_block_heal_narcissistic"><![CDATA[Thou arts shall not intervene with my greatness.]]></entry>
+	    <entry id="second_daughter+str_block_heal_narcissistic"><![CDATA[Do you think I'm weak or something?]]></entry>
+	    <entry id="second_daughter+str_block_heal_narcissistic"><![CDATA[Pathetic.]]></entry>
+	    <entry id="second_daughter+str_block_heal_narcissistic"><![CDATA[Weaken? I'm inmortal!]]></entry>
+
+	    <entry id="second_daughter+str_block_buff_narcissistic"><![CDATA[Be gone! I Don't need your help.]]></entry>
+	    <entry id="second_daughter+str_block_buff_narcissistic"><![CDATA[Don't make me laugh.]]></entry>
+	    <entry id="second_daughter+str_block_buff_narcissistic"><![CDATA[I can stand any danger alone.]]></entry>
+	    <entry id="second_daughter+str_block_buff_narcissistic"><![CDATA[I shall reject your offer.]]></entry>
+	    <entry id="second_daughter+str_block_buff_narcissistic"><![CDATA[Any effort from you is meaningless.]]></entry>
+
+
+    	<entry id="second_daughter+str_heart_attack"><![CDATA[A touch of the fate... given to me.]]></entry>
+    	<entry id="second_daughter+str_heart_attack"><![CDATA[I almost felt it.]]></entry>
+    	<entry id="second_daughter+str_heart_attack"><![CDATA[Ephemeral beauty.]]></entry>
+    	<entry id="second_daughter+str_heart_attack"><![CDATA[From death I shall stand!]]></entry>
+
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[The ground quakes!]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[I can feel how your life is empty.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[Perfection made flesh.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[Big or small... everything falls. So you will!]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[Doesn't matter the size of the wound, but who dealing with it.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[Beauty at finish.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[Can you sense your inferiority now?.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[I saw the throne of the empty heaven, waiting.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA["The bigger the pray..."? I'm in glory anyways.]]></entry>
+	    <entry id="second_daughter+str_comment_self_hit_narcissistic"><![CDATA[Clothes painted in holy blood.]]></entry>
+	    
+	    <entry id="second_daughter+str_bark_deathsdoor"><![CDATA[Sorry... I can't return what is yours...]]></entry>
+	    <entry id="second_daughter+str_bark_deathsdoor"><![CDATA[A moment given to me...]]></entry>
+	    <entry id="second_daughter+str_bark_deathsdoor"><![CDATA[Reward those who can defeat me!]]></entry>
+	    <entry id="second_daughter+str_bark_deathsdoor"><![CDATA[I welcome adversity]]></entry>
+	    
+    	<entry id="str_roster_list_paranoid_bark"><![CDATA[Be honered]]></entry>
+	  	
+
+	    <entry id="second_daughter+str_bark_stress_camp_narcissistic"><![CDATA[Ssssh...! Let me alone...]]></entry>
+	    <entry id="second_daughter+str_bark_stress_camp_narcissistic"><![CDATA[Desilutions.]]></entry>
+	   
+	     <entry id="second_daughter+str_campingSkillUseBalk_fearful"><![CDATA[The words stick in my throat.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_fearful"><![CDATA[How can I tell them such false truths?]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_fearful"><![CDATA[We are watched. I sense it.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_paranoid"><![CDATA[How can I trust them all?]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_paranoid"><![CDATA[The eyes. The hands. The eyes.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_paranoid"><![CDATA[You'll steal my techniques.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_masochistic"><![CDATA[If they come in the night we shall be ready.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_masochistic"><![CDATA[Pain is good. It hones our senses.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_masochistic"><![CDATA[In my land few survive the monsters.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_abusive"><![CDATA[Why should I help these meagre fools?]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_abusive"><![CDATA[I pity the fool that turns to me for aid.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_abusive"><![CDATA[Bah. My sword is more deserving of my aid than you.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_selfish"><![CDATA[As if I should give my bounties freely.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_selfish"><![CDATA[You ungrateful bunch.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_selfish"><![CDATA[My knowlledge is too good to share.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_depressed"><![CDATA[I can't. I just ... can't.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_depressed"><![CDATA[How can I tell them such false truths?]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_depressed"><![CDATA[It hardly seems worth it.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_irrational"><![CDATA[When the wind blows the cradle will rock.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_irrational"><![CDATA[No. That's not how it goes.]]></entry>
+	     <entry id="second_daughter+str_campingSkillUseBalk_irrational"><![CDATA[Once upon a time....]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_fearful"><![CDATA[Something watches in the shadows.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_fearful"><![CDATA[They'll come when we sleep.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_paranoid"><![CDATA[Your words are poison.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_paranoid"><![CDATA[My sword is all I need.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_masochist"><![CDATA[Pain is good. It means I'm alive.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_masochist"><![CDATA[Don't spoil the moment.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_abusive"><![CDATA[As if you could aid me.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_abusive"><![CDATA[My sword is the only ally I need.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_selfish"><![CDATA[I'm good enough thankyou.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_selfish"><![CDATA[Keep your greedy hands to yourselves. I know your kind.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_depressed"><![CDATA[Hopeless. Utterly hopeless.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_depressed"><![CDATA[I am beyond saving.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_irrational"><![CDATA[Not now. I'm busy training.]]></entry>
+	     <entry id="second_daughter+str_campingSkillBenefitBalk_irrational"><![CDATA[Once, when I was young.]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_paranoid"><![CDATA[How do I know it isn't poisoned?]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_paranoid"><![CDATA[I can't eat if you're watching.]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_masochist"><![CDATA[When we ran out of food we devoured the corpses.]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_masochist"><![CDATA[I don't need to eat.]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_masochist"><![CDATA[Food is for the weak!]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_depressed"><![CDATA[I'm sure one of you is more needy.]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_depressed"><![CDATA[Every mouthful tastes like ashes.]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_depressed"><![CDATA[Why fill guts that are due to be spilled?]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_irrational"><![CDATA[I absolutely refuse to eat anything with a face!]]></entry>
+	     <entry id="second_daughter+str_campingMealBalk_irrational"><![CDATA[My sword is all the sustainance that I need.]]></entry>		
+	</language>
+	
+	</root>
