@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <language id="english">
+  <language id="schinese">
 		 <entry id="town_event_title_knight_in_need"><![CDATA[Knight in Need]]></entry>
 		 <entry id="town_event_description_knight_in_need"><![CDATA[This Holy Knight has come in search of aid. The Princess she protects was taken by Bloodsuckers - into the depths of the Courtyard. Will you guide her search and steer her blade?]]></entry>		 
 		 <entry id="town_event_title_kill_the_baron"><![CDATA[Kill the Baron]]></entry>

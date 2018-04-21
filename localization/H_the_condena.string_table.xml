@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-	<language id="english">
+	<language id="schinese">
 		<entry id="hero_class_name_the_condena"><![CDATA[耿缇娜]]></entry>
 		<entry id="action_verbose_body_blacksmith_the_condena"><![CDATA[NOTHING to comment.]]></entry>
 
@@ -46,19 +46,19 @@
 
 		
 
-		<entry id="the耿缇娜_weapon_0"><![CDATA[耿缇娜的武器 1]]></entry>
-		<entry id="the耿缇娜_weapon_1"><![CDATA[耿缇娜的武器 2]]></entry>
-		<entry id="the耿缇娜_weapon_2"><![CDATA[耿缇娜的武器 3]]></entry>
-		<entry id="the耿缇娜_weapon_3"><![CDATA[耿缇娜的武器 4]]></entry>
-		<entry id="the耿缇娜_weapon_4"><![CDATA[耿缇娜的武器 5]]></entry>
+		<entry id="theCondena_weapon_0"><![CDATA[耿缇娜的武器 1]]></entry>
+		<entry id="theCondena_weapon_1"><![CDATA[耿缇娜的武器 2]]></entry>
+		<entry id="theCondena_weapon_2"><![CDATA[耿缇娜的武器 3]]></entry>
+		<entry id="theCondena_weapon_3"><![CDATA[耿缇娜的武器 4]]></entry>
+		<entry id="theCondena_weapon_4"><![CDATA[耿缇娜的武器 5]]></entry>
 
 		<entry id="upgrade_tree_name_the_condena.weapon"><![CDATA[耿缇娜的武器]]></entry>
 
-		<entry id="the耿缇娜_armour_0"><![CDATA[耿缇娜的铠甲 1]]></entry>
-		<entry id="the耿缇娜_armour_1"><![CDATA[耿缇娜的铠甲 2]]></entry>
-		<entry id="the耿缇娜_armour_2"><![CDATA[耿缇娜的铠甲 3]]></entry>
-		<entry id="the耿缇娜_armour_3"><![CDATA[耿缇娜的铠甲 4]]></entry>
-		<entry id="the耿缇娜_armour_4"><![CDATA[耿缇娜的铠甲 5]]></entry>
+		<entry id="theCondena_armour_0"><![CDATA[耿缇娜的铠甲 1]]></entry>
+		<entry id="theCondena_armour_1"><![CDATA[耿缇娜的铠甲 2]]></entry>
+		<entry id="theCondena_armour_2"><![CDATA[耿缇娜的铠甲 3]]></entry>
+		<entry id="theCondena_armour_3"><![CDATA[耿缇娜的铠甲 4]]></entry>
+		<entry id="theCondena_armour_4"><![CDATA[耿缇娜的铠甲 5]]></entry>
 
 		<entry id="upgrade_tree_name_the_condena.armour"><![CDATA[耿缇娜 Armours]]></entry>
 		

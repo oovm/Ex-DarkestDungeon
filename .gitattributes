@@ -1,4 +1,6 @@
 * text=auto
+# 屏蔽汉化时的统计
+localization/*.xml linguist-generated=true
 # make things fun lol
 *.json linguist-language=typescript
 *.darkest linguist-language=kotlin
