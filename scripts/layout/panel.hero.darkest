@@ -1,0 +1,9 @@
+health_layout: .pos 130 11 .colour #c00000
+
+stress_layout: .pos 130 40 .colour 150 150 150 255
+
+stat_layout:	.pos 42 72 .number_of_columns 1
+
+hero_equipment:	.pos 219 0
+
+hero_trinket:	.pos 405 0

@@ -1,0 +1,44 @@
+hero_trinket_grid_layout:
+	.number_of_columns 3
+	.start_pos 32 52 .offset 92 160
+
+hero_equipment_layout:
+	.weapon_pos 4 0
+    .highlight_pos_offset -20 -20
+	.armour_pos 95 0
+	.icon_offset 29 52
+	.level_offset 90 12
+	.tooltip_hotspot_offset 32 52 
+	.tooltip_hotspot_size 72 144
+	.tooltip_offset 120 52
+
+hero_base_stats_layout:
+	.spacing 200 22
+	.name_offset 0 0
+	.value_offset 115 0
+	.controller_selected_icon_offset -28 0
+	.tooltip_hotspot_offset 0 0
+	.tooltip_hotspot_size 160 20
+	.tooltip_offset 168 0
+	.tooltip_text_width 250
+
+hero_stats_layout:
+	.spacing 160 20
+	.name_offset 0 0
+	.value_offset 112 0
+	.controller_selected_icon_offset -28 -2
+	.tooltip_hotspot_offset 0 0
+	.tooltip_hotspot_size 160 20
+	.tooltip_offset -500 0
+	.tooltip_text_width 250
+
+hero_campaign_status_layout:
+	.resolve_level_bar_offset 6 4
+	.stress_bar_offset -14 100
+	.stress_bar_spacing 10 0
+	.affliction_offset 36 112
+	.selected_overlay_offset -31 4
+	
+hero_portrait_icon_layout:
+	.disease_icon_offset 61 61
+	.frame_offset 0 0

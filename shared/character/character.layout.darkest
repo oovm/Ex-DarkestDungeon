@@ -1,0 +1,136 @@
+character_layout:
+	.header_pos 16 16
+	.frames_pos 10 10
+	.name_pos 76 26
+	.rename_icon_pos 32 38
+	.rename_icon_tt_offset 40 0
+	.dismiss_hero_icon_pos 32 78
+	.dismiss_hero_icon_tt_offset 40 0
+	.class_pos 76 80
+	.campaign_status_pos 93 117
+	.hero_pos 98 700
+	.quirks_pos 141 128
+	.base_stats_pos 141 358
+	.equipment_pos 141 487
+	.hero_pips_pos 846 145
+	.hero_pips_spacing 47.5 0
+	.target_pips_pos 1153 145
+	.position_pips_title_pos 760 98
+	.target_pips_title_pos 1370 98
+	.combat_skill_grid_pos 780 156
+	.camping_skill_grid_pos 780 320
+	.resistances_pos 780 436
+	.class_bonuses_pos 780 566
+	.close_pos 1344 18
+	.close_controller_button_pos 1332 18
+    .palette_icon_pos 20 720
+	.palette_icon_tooltip_offset 76 720
+	.palette_icon_controller_hotspot_pos 20 720
+	.palette_icon_controller_hotspot_size 32 32
+    .palette_index_pos 55 720
+    .previous_hero_pos 1162 772
+	.previous_hero_controller_button_offset 2 0
+    .next_hero_pos 1246 772
+	.next_hero_controller_button_offset 80 0
+    .previous_next_tooltip_offset 0 0
+	.completed_darkest_dungeon_quest_icon_offset 24 222
+    .prev_next_tab_transition_time 0.2
+
+character_focusgroup_rectangles:
+	.quirks_pos 141 180	
+	.quirks_size 580 150
+    .quirks_highlight_pos 192 127
+    .quirks_hotspot_pos  192 50
+    .quirks_hotspot_size 192 200
+	.base_stats_pos 141 410
+	.base_stats_size 580 80
+    .base_highlight_pos 192 355
+	.equipment_pos 141 570
+	.equipment_size 580 175
+    .equipment_highlight_pos 192 503
+	.combat_skills_pos 780 170
+	.combat_skills_size 580 100
+    .combat_highlight_pos 782 51
+	.camping_skills_pos 780 340
+	.camping_skills_size 580 100
+    .camping_highlight_pos 782 285
+	.resistances_pos 780 500	
+	.resistances_size 580 90	
+    .resistances_highlight_pos 782 448	
+	.diseases_pos 780 670
+	.diseases_size 580 75
+    .diseases_highlight_pos 782 612
+	.char_edit_pos 780 670
+	.char_edit_size 580 75
+    .char_edit_highlight_pos 20 20
+
+character_campaign_status_layout:
+	.campaign_status_offset 0 0
+	.campaign_status_resolve_level_bar_tooltip_offset -70 170
+
+character_hero_layout:
+	.sprite_offset 35 -10
+
+character_quirks_layout:
+	.title_offset 323 0
+	.positive_list_offset 100 56
+    .positive_locked_icon_offset -36 -1
+	.positive_controller_selected_icon_scale 1.0 1.0
+	.positive_controller_selected_icon_offset -48 0.0
+	.negative_list_offset 565 56
+    .negative_locked_icon_offset 2 -1
+	.negative_controller_selected_icon_scale -1.0 1.0
+	.negative_controller_selected_icon_offset 26 0.0
+	.disease_overlay_offset 625 484
+    .disease_list_offset 740 536
+	.disease_controller_selected_icon_scale 1.0 1.0
+	.disease_controller_selected_icon_offset -30.0 0.0
+	.list_spacing 0 30
+
+character_base_stats_layout:
+	.title_offset 323 0
+	.list_offset 160 48
+	.list_number_of_columns 2
+
+character_equipment_layout:
+	.title_offset 323 20
+	.equipment_offset 83 63
+	.trinkets_offset 281 63
+
+character_combat_skill_grid_layout:
+	.title_offset 280 -104
+	.starting_pos 10 24
+	.spacing 80 100
+	.max_rows 7
+	.icon_offset 0 0
+	.lock_icon_offset 0 0
+	.selected_icon_offset -10 -10
+	.tooltip_offset 35 80
+	.level_visible 1
+	.level_offset 36 72
+
+character_camping_skill_grid_layout:
+	.title_offset 280 -34
+	.starting_pos 0 30
+	.spacing 80 100
+	.max_rows 7
+	.icon_offset 0 0
+	.lock_icon_offset 0 0
+	.selected_icon_offset -10 -10
+	.tooltip_offset 35 80
+	.level_visible 0
+	.level_offset 0 0
+
+character_resistances_layout:
+	.title_offset 280 14
+	.resistances_offset 10 62
+	.resistances_number_of_columns 2
+
+character_class_bonuses_layout:
+	.title_offset 280 48
+	
+skill_selection_animation:
+    .selection_target_scale 0.2
+    .selection_transition_time 0.2
+	.disabled_target_scale 0.2
+	.disabled_transition_time 0.1
