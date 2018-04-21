@@ -12,26 +12,26 @@
 		<entry id="town_event_description_first_first_daughter"><![CDATA[Something something first coment.]]></entry>
 
 		
-		<entry id="combat_skill_name_first_daughter_parabolic"><![CDATA[Parabolic Shot]]></entry>
-		<entry id="combat_skill_name_first_daughter_dominance"><![CDATA[Field's Dominance]]></entry>
+		<entry id="combat_skill_name_first_daughter_parabolic"><![CDATA[抛物线射击]]></entry>
+		<entry id="combat_skill_name_first_daughter_dominance"><![CDATA[领域优势]]></entry>
 		<entry id="combat_skill_name_first_daughter_fear"><![CDATA[Fearsome Death]]></entry>
 		<entry id="combat_skill_name_first_daughter_desesperation"><![CDATA[Desesperation]]></entry>
         <entry id="combat_skill_name_first_daughter_conqueror"><![CDATA[Conqueror's Price]]></entry>
-		<entry id="combat_skill_name_first_daughter_dogma"><![CDATA[My Dogma]]></entry>
+		<entry id="combat_skill_name_first_daughter_dogma"><![CDATA[我的教条]]></entry>
 		<entry id="combat_skill_name_first_daughter_glory"><![CDATA[Bigger Glory]]></entry>
-		<entry id="combat_skill_name_first_daughter_move"><![CDATA[Move]]></entry>
+		<entry id="combat_skill_name_first_daughter_move"><![CDATA[移动]]></entry>
 		
-		<entry id="upgrade_tree_name_first_daughter.parabolic"><![CDATA[Parabolic Shot]]></entry>
-		<entry id="upgrade_tree_name_first_daughter.dominance"><![CDATA[Field's Dominance]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.parabolic"><![CDATA[抛物线射击]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.dominance"><![CDATA[领域优势]]></entry>
 		<entry id="upgrade_tree_name_first_daughter.fear"><![CDATA[Fearsome Death]]></entry>
 		<entry id="upgrade_tree_name_first_daughter.desesperation"><![CDATA[Desesperation]]></entry>
 		<entry id="upgrade_tree_name_first_daughter.conqueror"><![CDATA[Conqueror's Price]]></entry>
-		<entry id="upgrade_tree_name_first_daughter.dogma"><![CDATA[My Dogma]]></entry>
+		<entry id="upgrade_tree_name_first_daughter.dogma"><![CDATA[我的教条]]></entry>
 		<entry id="upgrade_tree_name_first_daughter.glory"><![CDATA[Bigger Glory]]></entry>
 		<entry id="upgrade_tree_name_first_daughter.first_father1"><![CDATA[The Bloodline of the First]]></entry>
 
 		<entry id="buff_rule_data_tooltip_desesperation"><![CDATA[Desesperation]]></entry>
-		<entry id="buff_rule_data_tooltip_parabolic"><![CDATA[Parabolic Shot]]></entry>
+		<entry id="buff_rule_data_tooltip_parabolic"><![CDATA[抛物线射击]]></entry>
 
 		<entry id="first_daughter_weapon_0"><![CDATA[Extincted Crown]]></entry>
    		<entry id="first_daughter_weapon_1"><![CDATA[Extincted Broken Crown]]></entry>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<language id="english">
+		<entry id="hero_class_name_the_condena"><![CDATA[耿缇娜]]></entry>
+		<entry id="action_verbose_body_blacksmith_the_condena"><![CDATA[NOTHING to comment.]]></entry>
+
+		<entry id="action_verbose_body_guild_the_condena"><![CDATA[NOTHING to comment.]]></entry>
+
+		<entry id="action_verbose_body_camping_trainer_the_condena"><![CDATA[NOTHING to comment.]]></entry>
+
+		<entry id="town_event_title_the_condena"><![CDATA[耿缇娜的到来]]></entry>
+		<entry id="town_event_description_the_condena"><![CDATA[NOTHING to comment.]]></entry>
+
+		<entry id="town_event_title_bonus_recruit_the_condena"><![CDATA[耿缇娜的到来]]></entry>
+		<entry id="town_event_description_bonus_recruit_the_condena"><![CDATA[(Beta) This mod class is currently in Beta phase.]]></entry>	
+		
+		<entry id="combat_skill_name_the_condena_conHeal"><![CDATA[{colour_start|buff}[H1] {colour_end}断罪治愈]]></entry>
+		<entry id="combat_skill_name_the_condena_conDmg"><![CDATA[{colour_start|buff}[H2] {colour_end}撕裂]]></entry>
+		<entry id="combat_skill_name_the_condena_conProt"><![CDATA[{colour_start|buff}[H3] {colour_end}轻抚]]></entry>
+		<entry id="combat_skill_name_the_condena_conStress"><![CDATA[{colour_start|buff}[H4] {colour_end}幻视]]></entry>
+		<entry id="combat_skill_name_the_condena_conAttack"><![CDATA[{colour_start|debuff}[D1] {colour_end}释放]]></entry>
+		<entry id="combat_skill_name_the_condena_conStun"><![CDATA[{colour_start|debuff}[D2] {colour_end}未知接触]]></entry>
+		<entry id="combat_skill_name_the_condena_conDebuff"><![CDATA[{colour_start|debuff}[D3] {colour_end}耿缇娜的印记]]></entry>
+		<entry id="combat_skill_name_the_condena_conDot"><![CDATA[{colour_start|debuff}[D4] {colour_end}发自内心]]></entry>
+		<entry id="combat_skill_name_the_condena_con_redo_me"><![CDATA[{colour_start|debuff}[DS] {colour_end}留藏]]></entry>
+		<entry id="combat_skill_name_the_condena_move"><![CDATA[移动]]></entry>
+
+
+		<entry id="combat_skill_name_the_condena_af_Attack"><![CDATA[{colour_start|deathdoor}悲伤: {colour_end}释放]]></entry>
+		<entry id="combat_skill_name_the_condena_af_Stun"><![CDATA[{colour_start|deathdoor}悲伤: {colour_end}未知接触]]></entry>
+		<entry id="combat_skill_name_the_condena_af_Debuff"><![CDATA[{colour_start|deathdoor}悲伤: {colour_end}耿缇娜的印记]]]></entry>
+		<entry id="combat_skill_name_the_condena_af_Dot"><![CDATA[{colour_start|deathdoor}悲伤: {colour_end}发自内心]]></entry>
+
+
+		
+		<entry id="upgrade_tree_name_the_condena.conHeal"><![CDATA[断罪治愈]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conDmg"><![CDATA[撕裂]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conProt"><![CDATA[轻抚]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conStress"><![CDATA[幻视]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conAttack"><![CDATA[释放]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conStun"><![CDATA[未知接触]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conDebuff"><![CDATA[耿缇娜的印记]]]></entry>
+		<entry id="upgrade_tree_name_the_condena.conDot"><![CDATA[发自内心]]></entry>
+		<entry id="upgrade_tree_name_the_condena.con_redo_me"><![CDATA[留藏]]></entry>
+
+
+		
+
+		<entry id="the耿缇娜_weapon_0"><![CDATA[耿缇娜的武器 1]]></entry>
+		<entry id="the耿缇娜_weapon_1"><![CDATA[耿缇娜的武器 2]]></entry>
+		<entry id="the耿缇娜_weapon_2"><![CDATA[耿缇娜的武器 3]]></entry>
+		<entry id="the耿缇娜_weapon_3"><![CDATA[耿缇娜的武器 4]]></entry>
+		<entry id="the耿缇娜_weapon_4"><![CDATA[耿缇娜的武器 5]]></entry>
+
+		<entry id="upgrade_tree_name_the_condena.weapon"><![CDATA[耿缇娜的武器]]></entry>
+
+		<entry id="the耿缇娜_armour_0"><![CDATA[耿缇娜的铠甲 1]]></entry>
+		<entry id="the耿缇娜_armour_1"><![CDATA[耿缇娜的铠甲 2]]></entry>
+		<entry id="the耿缇娜_armour_2"><![CDATA[耿缇娜的铠甲 3]]></entry>
+		<entry id="the耿缇娜_armour_3"><![CDATA[耿缇娜的铠甲 4]]></entry>
+		<entry id="the耿缇娜_armour_4"><![CDATA[耿缇娜的铠甲 5]]></entry>
+
+		<entry id="upgrade_tree_name_the_condena.armour"><![CDATA[耿缇娜 Armours]]></entry>
+		
+
+
+
+	  	<entry id="str_affliction_name_condemned"><![CDATA[Condemned]]></entry>
+	  	<entry id="str_afflicted_condemned"><![CDATA[Fear and doom. That's what's remains.]]></entry>
+
+	  	<entry id="str_heart_attack_condemned"><![CDATA[]]></entry>
+	  	<entry id="str_mark_self_condemned"><![CDATA[We're all condemned]]></entry>
+	  	<entry id="str_mark_self_condemned"><![CDATA[I can't resist anymore.]]></entry>
+	  	<entry id="str_mark_self_condemned"><![CDATA[The demon within me reclaims pain.]]></entry>
+	  	<entry id="str_mark_self_condemned"><![CDATA[The horror...]]></entry>
+
+
+
+	  	<entry id="effect_tooltip_target_enemy_group_buff"><![CDATA[{colour_start|buff}Buff target enemy group{colour_end}]]></entry>
+	  	<entry id="effect_tooltip_target_enemy_group_debuff"><![CDATA[{colour_start|debuff}Debuff target enemy group{colour_end}]]></entry>
+
+
+
+	  	<entry id="buff_stat_tooltip_activity_side_effect_chance_conqueror_price"><![CDATA[Grants {colour_start|notable}1 additional round{colour_end} to the enemy group.]]></entry>
+	  	<entry id="buff_stat_tooltip_activity_side_effect_chance_conqueror_price_allies"><![CDATA[Grants {colour_start|notable}1 additional round{colour_end} to your ally.]]></entry>
+	  	<entry id="buff_stat_tooltip_activity_side_effect_chance_dogma"><![CDATA[The round {colour_start|notable}doesn't ends{colour_end}.]]></entry>
+
+		
+
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[This is not what I whished for...]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I have the same beliefs as you, accept me.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[Please, let me join.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I do not desire this to anyone else.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I can understand their fear, but if only once....]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[If for once I can be accepted like it used to be.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I'll offer my prayers for your safety.]]></entry>
+
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[This is not what I whished for...]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I have the same beliefs as you, accept me.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[Please, let me join.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I do not desire this to anyone else.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I can understand their fear, but if only once....]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[If for once I can be accepted like it used to be.]]></entry>
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[I'll offer my prayers for your safety.]]></entry>
+
+		<entry id="vestal+str_incompatible_party_condena_curse"><![CDATA[Lol.]]></entry>
+
+		<entry id="str_incompatible_party_condena_curse"><![CDATA[{colour_start|stress}The...{colour_end} {colour_start|deathdoor}Let them die...{colour_end} {colour_start|stress} voices.{colour_end}]]></entry>
+
+		<entry id="str_incompatible_party_member_condena_curse"><![CDATA[I'll not serve with... this thing.]]></entry>
+		<entry id="str_incompatible_party_member_condena_curse"><![CDATA[Gods... protect us from her.]]></entry>
+		<entry id="str_incompatible_party_member_condena_curse"><![CDATA[Demon in flesh, begone.]]></entry>
+		<entry id="str_incompatible_party_member_condena_curse"><![CDATA[You're not human anymore.]]></entry>
+
+		<entry id="vestal+str_incompatible_party_member_condena_curse"><![CDATA[This thing is not a sister of mine.]]></entry>
+		<entry id="vestal+str_incompatible_party_member_condena_curse"><![CDATA[She have sinned. I'll not serve with her.]]></entry>
+		<entry id="vestal+str_incompatible_party_member_condena_curse"><![CDATA[Sister... What have you done?]]></entry>
+		<entry id="vestal+str_incompatible_party_member_condena_curse"><![CDATA[I can not look at her.]]></entry>
+		
+		<entry id="buff_stat_tooltip_activity_side_effect_chance_condena_hdmg"><![CDATA[+Max DMG (no visible in {colour_start|buff}buff icon{colour_end})]]></entry>
+
+		<entry id="buff_stat_tooltip_activity_side_effect_chance_condena_add_action"><![CDATA[+1 额外的 {colour_start|buff}[H] {colour_end}人性行动]]></entry>
+
+
+
+		<entry id="buff_stat_tooltip_activity_side_effect_chance_condena_aff_dmg"><![CDATA[Deals 10 HP dmg]]></entry>
+
+	</language>
+	</root>
