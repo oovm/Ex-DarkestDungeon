@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- New Acc Trinkets -->
+	<language id="english">
+		<entry id="str_inventory_title_trinketagile_cloak"><![CDATA[Agile Cloak]]></entry>
+		<entry id="str_inventory_title_trinketdisruptive_bell"><![CDATA[Disruptive Bell]]></entry>
+		<entry id="str_inventory_title_trinketfavor_and_protection"><![CDATA[Favor and Protection]]></entry>
+		<entry id="str_inventory_title_trinketinvigorating_pipe"><![CDATA[Invigorating Pipe]]></entry>
+		<entry id="str_inventory_title_trinketsharpening_stone"><![CDATA[Sharpening Stone]]></entry>
+		<entry id="str_inventory_title_trinkettoxic_additive"><![CDATA[Toxic Additive]]></entry>
+		<entry id="str_inventory_title_trinketwar_horn"><![CDATA[War Horn]]></entry>
+		<entry id="str_inventory_title_trinketlimpid_spectacles"><![CDATA[Limpid Spectacles]]></entry>
+	</language>
+	<language id="schinese">
+		<entry id="str_inventory_title_trinketagile_cloak"><![CDATA[敏捷斗篷]]></entry>
+		<entry id="str_inventory_title_trinketdisruptive_bell"><![CDATA[混乱之铃]]></entry>
+		<entry id="str_inventory_title_trinketfavor_and_protection"><![CDATA[守护戒指]]></entry>
+		<entry id="str_inventory_title_trinketinvigorating_pipe"><![CDATA[振奋烟斗]]></entry>
+		<entry id="str_inventory_title_trinketsharpening_stone"><![CDATA[磨刀石]]></entry>
+		<entry id="str_inventory_title_trinkettoxic_additive"><![CDATA[剧毒添加剂]]></entry>
+		<entry id="str_inventory_title_trinketwar_horn"><![CDATA[战争号角]]></entry>
+		<entry id="str_inventory_title_trinketlimpid_spectacles"><![CDATA[擦亮的眼镜]]></entry>
+	</language>
+</root>

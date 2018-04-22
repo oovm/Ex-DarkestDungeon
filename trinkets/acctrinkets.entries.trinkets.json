@@ -1,0 +1,137 @@
+{
+   "entries":
+   [
+      {
+         "id" : "sharpening_stone",
+         "buffs" : 
+         [
+            "TRINKET_meleeonly_ACC_B2",
+            "TRINKET_BLEEDSKILL_B1",
+            "TRINKET_sharp_SPD_DEBUFF"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "uncommon",
+         "price" : 10000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "toxic_additive",
+         "buffs" : 
+         [
+			"TRINKET_rangedonly_ACC_B2",
+            "TRINKET_BLIGHTSKILL_B1",
+            "TRINKET_DEF_D3"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "uncommon",
+         "price" : 10000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "agile_cloak",
+         "buffs" : 
+         [
+            "TRINKET_ACC_B3",
+            "TRINKET_DEF_B2",
+            "TRINKET_BLEEDRESIST_D2"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "rare",
+         "price" : 15000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "disruptive_bell",
+         "buffs" : 
+         [
+            "TRINKET_ACC_B2",
+            "TRINKET_DEBUFFSKILL_B1",
+            "TRINKET_MOVESKILL_B1",
+			"TRINKET_HPHEALRECEIVED_D3"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "rare",
+         "price" : 15000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "invigorating_pipe",
+         "buffs" : 
+         [
+            "TRINKET_SPD_B2",
+            "TRINKET_ACC_B2",
+            "TRINKET_BLIGHTRESIST_D1",
+			"TRINKET_DISEASERESIST_D1"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "rare",
+         "price" : 15000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "favor_and_protection",
+         "buffs" : 
+         [
+            "TRINKET_MAXHP_B1",
+            "TRINKET_PROT_B1",
+            "TRINKET_favor_ACC_BUFF",
+			"TRINKET_favor_STRESSDMG",
+			"TRINKET_favor_RESOLVECHECK"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "very_rare",
+         "price" : 25000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "war_horn",
+         "buffs" : 
+         [
+			"TRINKET_horn_ACC_BUFF",
+			"TRINKET_STUNSKILL_B1",			
+            "TRINKET_STRESSDMG_D3"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "very_rare",
+         "price" : 25000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      },
+      {
+         "id" : "limpid_spectacles",
+         "buffs" : 
+         [
+			"TRINKET_ignore_protection",
+			"TRINKET_lightabove_ACC_B2",
+			"TRINKET_STRESSDMG_D2"
+         ],
+         "hero_class_requirements":
+         [
+         ],
+         "rarity" : "very_rare",
+         "price" : 25000,
+         "limit" : 0,
+         "origin_dungeon" : ""
+      }
+   ]
+}
