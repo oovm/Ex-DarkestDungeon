@@ -26,3 +26,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=885957080
 - Acc Trinkets
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1253788311
+
+- 36 NEW TRINKETS
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1319280399

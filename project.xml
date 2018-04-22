@@ -23,10 +23,13 @@
 
 		更多信息参见:[url=https://github.com/GalAster/Ex-DarkestDungeon] Github [/url]
 
-        [h1] Localizations
+        [h1] Localizations [/h1]
 
         同时添加了一些汉化, 加载顺序在以下mod之前可以获得汉化:
-        [list]
+
+
+        [h2]英雄汉化[/h2] (现在不包括英雄整合了, 转为好友共享了.)
+        [h1][list]
         [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1154908982] The Twilight Knight [/url](暮光骑士)
         [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1342714768] Daughters of the Fours Pack  [/url]
         [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=972549848 ] Ladies of Captivity Spine [/url](被囚禁的公主)
@@ -37,12 +40,15 @@
 		[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1130829365] Marvin Seos Lamia Class Mod [/url](女妖)
 		[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1089257023] Marvin Seos Falconer Class Mod [/url](巡林者)
 		[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1221097087] Marvin Seos Seraph Class Mod [/url](炽天使)
-        [/list]
+        [/list][/h1]
+
+        [h2]场景汉化[/h2] (不包含场景整合, 报错是因为有些场景是老版本的.)
+        [h1][list]
+        [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1193920177] Boss Rush [/url](Boss地牢)
+        [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1080076066] The Mountain - New Dungeon [/url](雪山)
+        [/list][/h1]
+
         有的可能汉化不完全, 比如对话没汉化, 但是至少没有蓝字问题了.
-
-		[/h1]
-
-        现在不包括英雄整合了, 转为好友共享了.
 
 		[h1]维护到我不玩这个游戏为止.[/h1]
 

@@ -1,0 +1,7 @@
+{
+    "new_game_plus_week_limit": 999,
+    "new_game_plus_hero_death_limit": 999,
+    "negStress0Success": 0.0,
+    "negStress100Success": 0.0,
+    "passed_turn_stress_dmg": 0.0
+}

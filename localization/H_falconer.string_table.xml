@@ -354,7 +354,7 @@
     <entry id="falconer+str_bark_rest"><![CDATA[你们可以休息，朋友。 我们现在很安全。]]></entry>
     <entry id="falconer+str_bark_rest"><![CDATA[多吃点伙计们，我们得补充能量。]]></entry>
     <entry id="falconer+str_bark_rest"><![CDATA[姗姗来迟的閒暇时光。]]></entry>
-    <entry id="hero_class_name_falconer"><![CDATA[训隼者]]></entry>
+    <entry id="hero_class_name_falconer"><![CDATA[巡林者]]></entry>
     <entry id="combat_skill_name_falconer_sniper_shot"><![CDATA[快速射击]]></entry>
     <entry id="combat_skill_name_falconer_volleyfire"><![CDATA[群体射击]]></entry>
     <entry id="camping_skill_name_heightened_senses"><![CDATA[加强感官]]></entry>
@@ -392,9 +392,9 @@
     <entry id="falconer_armour_3"><![CDATA[可靠的外衣、猎人的披风]]></entry>
     <entry id="falconer_armour_4"><![CDATA["誓言永尽"]]></entry>
     <entry id="upgrade_tree_name_falconer.armour"><![CDATA[外衣和披风]]></entry>
-    <entry id="action_verbose_body_guild_falconer"><![CDATA[通过快速而灵活的远端攻击。训隼者和她的猎鹰可以造成客观的伤害同时破坏和扰乱敌人的阵型。虽然训隼者通常在后排战斗。假如被迫来到前排。她的动物伙伴会扑击敌人的眼睛来拖延时间令其从容撤退。]]></entry>
-    <entry id="action_verbose_body_blacksmith_falconer"><![CDATA[训隼者的战术是灵活而多变的。依靠诡计和敏捷保护自己。如果事情不顺。其身上的外套和披风也可以为其阻挡敌人的攻击。在猎鹰扑击敌人转移注意力的时候。训隼者会向她的目标射出致命的箭矢。]]></entry>
-    <entry id="action_verbose_body_camping_trainer_falconer"><![CDATA[得益于长久的野外生活。训隼者瞭解如何在最为恶劣的情况下坚持生存。她可以融入周围的环境依靠敏锐的感官和自己的猎鹰来保障自己的安全。虽然她不能为自己的盟友提供什么直接的帮助。但她的专长可以为队伍提供可靠的侦查并获得充足的食物。]]></entry>
+    <entry id="action_verbose_body_guild_falconer"><![CDATA[通过快速而灵活的远端攻击。巡林者和她的猎鹰可以造成客观的伤害同时破坏和扰乱敌人的阵型。虽然巡林者通常在后排战斗。假如被迫来到前排。她的动物伙伴会扑击敌人的眼睛来拖延时间令其从容撤退。]]></entry>
+    <entry id="action_verbose_body_blacksmith_falconer"><![CDATA[巡林者的战术是灵活而多变的。依靠诡计和敏捷保护自己。如果事情不顺。其身上的外套和披风也可以为其阻挡敌人的攻击。在猎鹰扑击敌人转移注意力的时候。巡林者会向她的目标射出致命的箭矢。]]></entry>
+    <entry id="action_verbose_body_camping_trainer_falconer"><![CDATA[得益于长久的野外生活。巡林者瞭解如何在最为恶劣的情况下坚持生存。她可以融入周围的环境依靠敏锐的感官和自己的猎鹰来保障自己的安全。虽然她不能为自己的盟友提供什么直接的帮助。但她的专长可以为队伍提供可靠的侦查并获得充足的食物。]]></entry>
     <entry id="falconer+str_monster_user_selected_targets_kill_pill"><![CDATA[我已经接受了自己的命运。 我淮备好了。]]></entry>
     <entry id="falconer+str_attack_friendly_paranoid"><![CDATA[要不要我挖掉你那满怀恶意的眼珠?]]></entry>
     <entry id="falconer+str_attack_friendly_paranoid"><![CDATA[你认为我很好欺负? 再想想!]]></entry>
@@ -464,13 +464,13 @@
     <entry id="journal_page_text_38"><![CDATA[(以优美的笔迹写成)
 群众陷入报复的疯狂情绪并向守卫们叫嚣。我赶忙启程离去，最后一眼只见那巨兽把试图将其制压的驯兽师们跃立肆虐。儘管我灵机匆向竞技场的大门，依然可以听到群众愤怒的大吼大叫及脚下不间断的大地震动。我隐隐然警觉不久将有一场暴动并在远远波及到我之前儘速离去。]]></entry>
 
-    <entry id="journal_page_title_39"><![CDATA[狄安娜的日志，训隼者 (1/7)]]></entry>
-    <entry id="journal_page_title_40"><![CDATA[狄安娜的日志，训隼者 (2/7)]]></entry>
-    <entry id="journal_page_title_41"><![CDATA[狄安娜的日志，训隼者 (3/7)]]></entry>
-    <entry id="journal_page_title_42"><![CDATA[狄安娜的日志，训隼者 (4/7)]]></entry>
-    <entry id="journal_page_title_43"><![CDATA[狄安娜的日志，训隼者 (5/7)]]></entry>
-    <entry id="journal_page_title_44"><![CDATA[狄安娜的日志，训隼者 (6/7)]]></entry>
-    <entry id="journal_page_title_45"><![CDATA[狄安娜的日志，训隼者 (7/7)]]></entry>
+    <entry id="journal_page_title_39"><![CDATA[狄安娜的日志，巡林者 (1/7)]]></entry>
+    <entry id="journal_page_title_40"><![CDATA[狄安娜的日志，巡林者 (2/7)]]></entry>
+    <entry id="journal_page_title_41"><![CDATA[狄安娜的日志，巡林者 (3/7)]]></entry>
+    <entry id="journal_page_title_42"><![CDATA[狄安娜的日志，巡林者 (4/7)]]></entry>
+    <entry id="journal_page_title_43"><![CDATA[狄安娜的日志，巡林者 (5/7)]]></entry>
+    <entry id="journal_page_title_44"><![CDATA[狄安娜的日志，巡林者 (6/7)]]></entry>
+    <entry id="journal_page_title_45"><![CDATA[狄安娜的日志，巡林者 (7/7)]]></entry>
     <entry id="journal_page_text_39"><![CDATA[有人告诉我，记日记可以帮自己摆脱挥之不去的恐惧，所以不妨从现在开始。我们被要求探索荒野，一个充满无数不愉快记忆的地方。蒂丽德和阿德温是我的旧友。虽然蒂丽德显得很傲慢而阿德温看起来很粗鲁，他们仍是值得信任的可靠伙伴。给我带来不好感觉的是一个新面孔……]]></entry>
     <entry id="journal_page_text_40"><![CDATA[在开始执行任务的时候我有种不好的预感。新来的不到一个小时就开始抱怨起来。她嫌路途太远，嫌地上太葬。最扯的是她那华丽的袍子和那面碎裂的镜子。她为什么要穿戴这种东西?她的理由是"舒服"。完全没法理解这些城市佬的脑子裡装些什么……]]></entry>
     <entry id="journal_page_text_41"><![CDATA[我们遭遇了一次灾难性的战斗，不过新人居然挺过来了。没想到她居然是个女巫，还用手上的镜子施展了治疗魔法。这种行为让蒂丽德把她视为异教徒。阿德温倒是对她颇有好感，但我则开始产生怀疑……]]></entry>

@@ -1,3 +1,13 @@
+//divine effect
+effect: .name "divine_elixir"
+        .target "performer"
+        .curio_result_type "positive"
+        .chance 100% .remove_vampire 1
+
+        .on_hit true
+        .on_miss true
+        .queue true
+
 effect: .name "smallpox1" .target "target" .curio_result_type "negative" .chance 5% .disease smallpox	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
 effect: .name "smallpox2" .target "target" .curio_result_type "negative" .chance 7% .disease smallpox	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
 effect: .name "smallpox3" .target "target" .curio_result_type "negative" .chance 9% .disease smallpox	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
