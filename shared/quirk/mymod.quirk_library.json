@@ -1,0 +1,339 @@
+{
+   "quirks":
+   [
+	{
+         "id" : "smallpox",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+			"PROT-20",
+            "MAXHP-35"
+		
+			
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+      {
+         "id" : "dysentery",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+			"SPD-5",
+            "TRINKET_EATSASTWO",
+			"dis_unheal"
+			
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "tuberculosis",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "DEF-15",
+            "DMGL-35",
+			"DMGH-35",
+			"TRINKET_EATSASZERO"
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "gangrene",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "MAXHP-20",
+            "dis_notheal"
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "hookworm",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+			"BLEEDRESIST-75",
+            "MAXHP-20"
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "measles",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "MAXHP-20",
+			"dis_stress"
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	   {
+         "id" : "typhoid",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "DEBUFFRESIST-40",
+			"DEF-10",
+			"DEATHBLOWRESIST-50"
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "dipth",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "STRESSDMG10",
+			"DMGL-35",
+			"DMGH-35",
+			"BLIGHTRESIST40"
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "rheumatism",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "CRIT-15"
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	   {
+         "id" : "lead",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "ACC-15",
+			"MAXHP-20",
+			"RESOLVECHECK-15"
+			
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "mono",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "STRESSDMG30",
+			"DISEASERESIST-40"
+			
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	  {
+         "id" : "myo",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "physical",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "",
+         "curio_tag_chance" : 0.0,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "STUNRESIST-20",
+			"DEATHBLOWRESIST-50",
+			"dis_fat"
+			
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      },
+	   {
+         "id" : "insane",
+         "show_explicit_buff_description" : true,
+         "show_flavor_description" : false,
+         "show_explicit_curio_tag_description" : false,
+         "random_chance" : 1,
+         "is_positive" : false,
+         "is_disease" : true,
+         "classification" : "mental",
+         "incompatible_quirks" : 
+         [
+         ],
+         "curio_tag" : "All",
+         "curio_tag_chance" : 0.1,
+         "keep_loot" : false,
+         "buffs" : 
+         [
+            "STRESSDMG30"
+			
+            
+         
+         ],
+         "can_modify_in_activity" : true,
+         "can_be_replaced_by_new_quirk" : true
+      }
+	  
+   
+    ]
+}

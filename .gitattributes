@@ -1,8 +1,9 @@
 * text=auto
 # 屏蔽汉化时的统计
 localization/*.xml linguist-generated=true
-# make things fun lol
-*.json linguist-language=typescript
+# make things fun, lol...
 *.darkest linguist-language=kotlin
+*.md linguist-language=clojure
+*.csv linguist-language=groovy
+*.json linguist-language=typescript
 *.xml linguist-language=html
-*.md linguist-language=html

@@ -1,0 +1,19 @@
+effect: .name "smallpox1" .target "target" .curio_result_type "negative" .chance 5% .disease smallpox	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "smallpox2" .target "target" .curio_result_type "negative" .chance 7% .disease smallpox	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "smallpox3" .target "target" .curio_result_type "negative" .chance 9% .disease smallpox	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "gangrene1" .target "target" .curio_result_type "negative" .chance 3% .disease gangrene	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "gangrene2" .target "target" .curio_result_type "negative" .chance 4% .disease gangrene	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "gangrene3" .target "target" .curio_result_type "negative" .chance 5% .disease gangrene	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "myo1" .target "target" .curio_result_type "negative" .chance 3% .disease myo	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "myo2" .target "target" .curio_result_type "negative" .chance 4% .disease myo	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "myo3" .target "target" .curio_result_type "negative" .chance 5% .disease myo	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "lead1" .target "target" .curio_result_type "negative" .chance 3% .disease lead	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "lead2" .target "target" .curio_result_type "negative" .chance 5% .disease lead	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "lead3" .target "target" .curio_result_type "negative" .chance 7% .disease lead	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "insane" .target "target" .curio_result_type "negative" .chance 5% .disease insane	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "typhoid1" .target "target" .curio_result_type "negative" .chance 4% .disease typhoid	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "typhoid2" .target "target" .curio_result_type "negative" .chance 5% .disease typhoid	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "typhoid3" .target "target" .curio_result_type "negative" .chance 6% .disease typhoid	.on_hit true .on_miss false .crit_doesnt_apply_to_roll
+effect: .name "dipth1" .target "target" .curio_result_type "negative" .chance 3% .disease dipth	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true true
+effect: .name "dipth2" .target "target" .curio_result_type "negative" .chance 4% .disease dipth	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
+effect: .name "dipth3" .target "target" .curio_result_type "negative" .chance 5% .disease dipth	.on_hit true .on_miss false .crit_doesnt_apply_to_roll true
