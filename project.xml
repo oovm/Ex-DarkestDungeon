@@ -9,8 +9,8 @@
 	<Visibility>public</Visibility>
 	<UploadMode>direct_upload</UploadMode>
 	<VersionMajor>1</VersionMajor>
-	<VersionMinor>1</VersionMinor>
-	<TargetBuild>2</TargetBuild>
+	<VersionMinor>3</VersionMinor>
+	<TargetBuild>0</TargetBuild>
 	<Tags>
 		<Tags>Overhauls</Tags>
 		<Tags>Localizations</Tags>
