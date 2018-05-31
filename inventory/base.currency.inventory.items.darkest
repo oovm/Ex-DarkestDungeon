@@ -1,0 +1,7 @@
+inventory_item:	.type "gold"	 .id ""		.base_stack_limit 500000 .purchase_gold_value 0	.sell_gold_value 0
+
+inventory_item:	.type "heirloom" .id "portrait"	.base_stack_limit 10000	 .purchase_gold_value 0	.sell_gold_value 0
+inventory_item:	.type "heirloom" .id "bust"	.base_stack_limit 10000	 .purchase_gold_value 0	.sell_gold_value 0
+inventory_item:	.type "heirloom" .id "crest"	.base_stack_limit 10000	 .purchase_gold_value 0	.sell_gold_value 0
+inventory_item:	.type "heirloom" .id "deed"	.base_stack_limit 10000	 .purchase_gold_value 0	.sell_gold_value 0
+inventory_item:	.type "heirloom" .id "urn"	.base_stack_limit 10000	 .purchase_gold_value 0	.sell_gold_value 0

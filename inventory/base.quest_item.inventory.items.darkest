@@ -1,0 +1,14 @@
+inventory_item:	.type "quest_item" .id "holy_relic"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "grain_sack"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "medicines"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "holy_water"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "ancestors_crate"  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "pickaxe"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "antivenom"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "eldritch_lantern" .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "beacon_light"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item: .type "quest_item" .id "key1"		  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item: .type "quest_item" .id "key2"		  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item: .type "quest_item" .id "key3"		  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item: .type "quest_item" .id "key4"		  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0
+inventory_item:	.type "quest_item" .id "torch_quest"	  .base_stack_limit 10 .purchase_gold_value 0 .sell_gold_value 0

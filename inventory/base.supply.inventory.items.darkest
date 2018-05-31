@@ -1,0 +1,18 @@
+inventory_item:	.type "provision" 	.id ""				  .base_stack_limit 10000 .purchase_gold_value 75  .sell_gold_value 75
+
+inventory_item:	.type "supply"	  	.id "shovel"			  .base_stack_limit 10000 .purchase_gold_value 250 .sell_gold_value 250
+inventory_item:	.type "supply"	  	.id "firewood"			  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0
+inventory_item:	.type "supply"	  	.id "bandage"			  .base_stack_limit 10000 .purchase_gold_value 150 .sell_gold_value 150
+inventory_item:	.type "supply"	  	.id "antivenom"			  .base_stack_limit 10000 .purchase_gold_value 150 .sell_gold_value 150
+inventory_item:	.type "supply"	  	.id "skeleton_key"		  .base_stack_limit 10000 .purchase_gold_value 200 .sell_gold_value 200
+inventory_item:	.type "supply"	  	.id "medicinal_herbs"		  .base_stack_limit 10000 .purchase_gold_value 200 .sell_gold_value 200
+inventory_item:	.type "supply"	  	.id "torch"			  .base_stack_limit 10000 .purchase_gold_value 75  .sell_gold_value 75
+inventory_item:	.type "supply"	  	.id "holy_water"		  .base_stack_limit 10000 .purchase_gold_value 150 .sell_gold_value 150
+inventory_item: .type "supply"	  	.id "dog_treats"		  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0
+inventory_item: .type "supply"	  	.id "laudanum"			  .base_stack_limit 10000 .purchase_gold_value 100 .sell_gold_value 100
+inventory_item:	.type "estate"	        .id "the_blood"			  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0   .estate_can_be_provision true .tutorial_id "the_blood"
+inventory_item:	.type "estate"	        .id "the_cure"			  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0   .estate_can_be_provision true .sfx_override "/general/items/holy_water"
+inventory_item:	.type "estate_currency"	.id "crimson_court_invitation_A"  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0
+inventory_item:	.type "estate_currency"	.id "crimson_court_invitation_B"  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0
+inventory_item:	.type "estate_currency"	.id "crimson_court_invitation_C"  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0
+inventory_item:	.type "estate" 		.id "snake_scale" 		  .base_stack_limit 10000 .purchase_gold_value 0   .sell_gold_value 0   .estate_can_be_provision true .use_id_take_sfx true

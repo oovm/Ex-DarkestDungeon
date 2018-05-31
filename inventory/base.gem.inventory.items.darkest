@@ -1,0 +1,12 @@
+inventory_item:	.type "gem" .id "ancient_idol"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 5500
+inventory_item:	.type "gem" .id "ruby"		  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 1250
+inventory_item:	.type "gem" .id "sapphire"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 1000
+inventory_item:	.type "gem" .id "emerald"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 750
+inventory_item:	.type "gem" .id "onyx"		  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 500
+inventory_item:	.type "gem" .id "jade"		  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 375
+inventory_item:	.type "gem" .id "citrine"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 250
+
+inventory_item:	.type "gem" .id "trapezohedron"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 5000
+inventory_item:	.type "gem" .id "antiqrelicsmall" .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 500
+inventory_item:	.type "gem" .id "antiqrelic"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 1250
+inventory_item:	.type "gem" .id "pewrelic"	  .base_stack_limit 10000 .purchase_gold_value 0 .sell_gold_value 2500
